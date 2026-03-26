@@ -1,0 +1,686 @@
+price,bedrooms,bathrooms,accommodates,parking_spaces,square_meters,pool,garden,security,pet_friendly,near_beach,location_score,property_age,description_length,num_photos,has_agency,property_type_id,suburb,city,listing_number,listing_url
+290000.0,1,1,3,0.0,666.0,0,0,0,0,1,8,10,291,8,1,8,Stanford,Stanford,P24-116840657,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116840657
+350000.0,1,1,3,0.0,595.0,0,0,0,0,0,7,10,778,8,1,8,Bot River Avenues,Bot River,P24-116811250,https://www.property24.com/for-sale/bot-river-avenues/bot-river/western-cape/33592/116811250
+360000.0,1,1,3,0.0,350.0,1,0,0,0,1,9,10,520,10,1,8,Hawston,Hermanus,P24-116812559,https://www.property24.com/for-sale/hawston/hermanus/western-cape/7854/116812559
+365000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,699,7,1,8,Hawston,Hermanus,P24-115970400,https://www.property24.com/for-sale/hawston/hermanus/western-cape/7854/115970400
+375000.0,1,1,3,0.0,0.0,1,0,0,0,1,9,10,694,13,1,8,Hawston,Hermanus,P24-116839859,https://www.property24.com/for-sale/hawston/hermanus/western-cape/7854/116839859
+400000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,817,19,1,8,Napier,Napier,P24-116782977,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116782977
+450000.0,1,1,3,0.0,458.0,0,0,0,0,0,7,10,649,4,1,8,Riviersonderend,Riviersonderend,P24-116817993,https://www.property24.com/for-sale/riviersonderend/riviersonderend/western-cape/7876/116817993
+450000.0,1,1,3,0.0,0.0,1,0,0,0,1,7,10,304,8,1,8,Franskraal,Gansbaai,P24-115031435,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/115031435
+475000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,652,4,1,8,Bot River,Bot River,P24-116484137,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/116484137
+480000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1269,15,1,8,Bot River,Bot River,P24-116766367,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/116766367
+496000.0,1,1,3,0.0,512.0,0,0,1,0,0,7,10,1306,7,1,8,Bredasdorp,Bredasdorp,P24-116603087,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116603087
+530000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,635,5,1,8,Kleinbaai,Gansbaai,P24-116168973,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116168973
+535000.0,1,1,3,0.0,600.0,0,0,0,0,1,7,10,2078,12,1,8,Kleinbaai,Gansbaai,P24-116839196,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116839196
+535000.0,1,1,3,0.0,0.0,1,0,0,0,1,7,10,1210,4,1,8,Kleinbaai,Gansbaai,P24-116826293,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116826293
+535000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1007,10,1,8,Kleinbaai,Gansbaai,P24-116839659,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116839659
+545000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,410,13,1,8,Kleinbaai,Gansbaai,P24-111355679,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/111355679
+546000.0,1,1,3,0.0,601.0,0,0,0,0,1,7,10,873,8,1,8,Kleinbaai,Gansbaai,P24-116285276,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116285276
+580000.0,1,1,3,0.0,1278.0,0,0,0,0,0,7,10,984,13,1,8,Caledon,Caledon,P24-116840040,https://www.property24.com/for-sale/caledon/caledon/western-cape/7873/116840040
+580000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,409,6,1,8,Caledon,Caledon,P24-116835987,https://www.property24.com/for-sale/caledon/caledon/western-cape/7873/116835987
+585000.0,1,1,3,0.0,990.0,0,0,0,0,1,7,10,318,6,1,8,Franskraal,Gansbaai,P24-116840736,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116840736
+640000.0,1,1,3,0.0,880.0,0,1,0,0,1,8,10,1273,14,1,8,Bettys Bay,Bettys Bay,P24-116841013,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116841013
+640000.0,1,1,3,0.0,0.0,0,1,0,0,1,8,10,1974,13,1,8,Bettys Bay,Bettys Bay,P24-116755807,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116755807
+650000.0,1,1,3,0.0,829.0,0,0,0,0,0,7,10,770,13,1,8,Napier,Napier,P24-113033267,https://www.property24.com/for-sale/napier/napier/western-cape/7877/113033267
+650000.0,1,1,3,0.0,818.0,0,0,0,0,1,7,10,1271,13,1,8,Pearly Beach,Gansbaai,P24-116817263,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116817263
+695000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,837,6,1,8,Fisherhaven,Hermanus,P24-108478025,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/108478025
+715000.0,1,1,3,1.0,0.0,0,1,1,1,0,7,10,798,12,1,5,Napier,Napier,P24-116777956,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116777956
+750000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1334,14,1,8,Perlemoenbaai,Gansbaai,P24-116819950,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116819950
+750000.0,1,1,3,0.0,0.0,0,0,1,0,1,7,10,751,6,1,8,Perlemoenbaai,Gansbaai,P24-116820691,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116820691
+750000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,790,7,1,8,Perlemoenbaai,Gansbaai,P24-116790709,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116790709
+790000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1447,11,1,8,Pringle Bay,Pringle Bay,P24-116798475,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116798475
+799000.0,1,1,3,0.0,880.0,0,1,0,0,1,8,10,1789,7,1,8,Bettys Bay,Bettys Bay,P24-116755842,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116755842
+800000.0,2,1,5,1.0,0.0,0,0,0,1,1,7,10,871,19,1,4,Gansbaai Central,Gansbaai,P24-116810210,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116810210
+825000.0,1,1,3,0.0,600.0,0,0,0,0,1,7,10,1155,19,1,8,Kleinbaai,Gansbaai,P24-114209587,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/114209587
+830000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1259,9,1,8,Pringle Bay,Pringle Bay,P24-116779976,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116779976
+850000.0,2,1,5,1.0,0.0,0,1,0,1,1,7,10,704,17,1,5,Gansbaai Central,Gansbaai,P24-116795828,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116795828
+850000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,347,12,1,8,Fisherhaven,Hermanus,P24-116825429,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/116825429
+899000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,728,8,1,8,Agulhas,Agulhas,P24-116795815,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116795815
+899000.0,3,1,7,3.0,0.0,0,0,0,1,0,7,10,562,14,1,4,Caledon,Caledon,P24-116802389,https://www.property24.com/for-sale/caledon/caledon/western-cape/7873/116802389
+995000.0,1,1,3,0.0,600.0,0,0,0,0,1,7,10,1203,9,1,8,Pringle Bay,Pringle Bay,P24-116757957,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116757957
+1000000.0,1,1,3,0.0,654.0,0,0,1,0,1,7,10,1454,7,1,8,Franskraal,Gansbaai,P24-115502047,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/115502047
+1070000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1645,33,1,8,Pringle Bay,Pringle Bay,P24-116821834,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116821834
+1075000.0,2,1,5,1.0,0.0,0,0,1,1,0,7,10,690,9,1,5,Caledon,Caledon,P24-116564445,https://www.property24.com/for-sale/caledon/caledon/western-cape/7873/116564445
+1095000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,1411,15,1,8,Theewaterskloof,Villiersdorp,P24-116727547,https://www.property24.com/for-sale/theewaterskloof/villiersdorp/western-cape/33398/116727547
+1100000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1260,14,1,8,Pringle Bay,Pringle Bay,P24-116787526,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116787526
+1100000.0,1,1,3,0.0,891.0,0,0,1,0,1,8,10,1631,19,1,8,Bettys Bay,Bettys Bay,P24-116831121,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116831121
+1150000.0,1,1,3,2.0,0.0,0,1,0,1,0,7,10,1011,14,1,5,Swellendam,Swellendam,P24-116755780,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116755780
+1180000.0,2,2,5,1.0,0.0,0,1,0,0,1,7,10,409,12,1,5,Gansbaai Central,Gansbaai,P24-116773938,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116773938
+1180000.0,2,2,5,1.0,0.0,0,0,0,0,1,7,10,1897,30,1,5,Gansbaai Central,Gansbaai,P24-116775199,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116775199
+1200000.0,1,1,3,0.0,1457.0,0,1,0,0,1,8,10,1435,10,1,8,Bettys Bay,Bettys Bay,P24-116755721,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116755721
+1200000.0,2,1,5,1.0,0.0,1,1,0,0,1,9,10,833,21,1,5,Hermanus Beach Club,Hermanus,P24-116804676,https://www.property24.com/for-sale/hermanus-beach-club/hermanus/western-cape/15725/116804676
+1200000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,650,14,1,8,De Kelders,Gansbaai,P24-116595667,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116595667
+1250000.0,2,2,5,4.0,0.0,0,0,0,1,0,7,10,526,13,1,4,Bot River,Bot River,P24-113217305,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/113217305
+1295000.0,1,1,3,0.0,0.0,1,0,0,0,1,7,10,770,4,1,8,Perlemoenbaai,Gansbaai,P24-116780528,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116780528
+1299999.0,3,3,7,6.0,0.0,0,0,0,1,1,9,10,897,17,1,4,Hawston,Hermanus,P24-116835968,https://www.property24.com/for-sale/hawston/hermanus/western-cape/7854/116835968
+1350000.0,4,3,9,7.0,161.0,0,1,1,1,1,8,10,1793,29,1,4,Kleinmond Central,Kleinmond,P24-116755846,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116755846
+1350000.0,1,1,3,0.0,502.0,0,0,0,0,1,7,10,956,15,1,8,Perlemoenbaai,Gansbaai,P24-116811622,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116811622
+1395000.0,4,1,9,4.0,0.0,1,1,0,1,0,7,10,814,23,1,4,Bredasdorp,Bredasdorp,P24-116764543,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116764543
+1400000.0,1,1,3,0.0,1339.0,0,1,0,0,1,8,10,2007,6,1,8,Bettys Bay,Bettys Bay,P24-116812625,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116812625
+1490000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,1075,26,1,10,Swellendam Rural,Swellendam,P24-116790316,https://www.property24.com/for-sale/swellendam-rural/swellendam/western-cape/16564/116790316
+1495000.0,3,2,7,8.0,170.0,1,1,0,1,1,7,10,2984,27,1,4,Pearly Beach,Gansbaai,P24-116749438,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116749438
+1499000.0,2,1,5,0.0,0.0,0,1,0,1,1,7,10,612,18,1,4,De Kelders,Gansbaai,P24-109616451,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/109616451
+1499000.0,2,1,5,1.0,99.0,0,0,0,1,0,7,10,955,18,1,4,Grabouw,Grabouw,P24-116752148,https://www.property24.com/for-sale/grabouw/grabouw/western-cape/16681/116752148
+1557000.0,2,1,5,3.0,0.0,0,1,0,1,0,7,10,2129,21,1,4,Grabouw,Grabouw,P24-116766411,https://www.property24.com/for-sale/grabouw/grabouw/western-cape/16681/116766411
+1590000.0,1,1,3,0.0,520.0,1,0,0,0,1,7,10,583,11,1,8,Perlemoenbaai,Gansbaai,P24-116745308,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116745308
+1600000.0,1,1,3,0.0,0.0,1,0,0,0,1,7,10,1165,14,1,8,Perlemoenbaai,Gansbaai,P24-116251703,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116251703
+1600000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,1038,15,1,8,Grabouw,Grabouw,P24-116787366,https://www.property24.com/for-sale/grabouw/grabouw/western-cape/16681/116787366
+1600000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,844,18,1,8,Swellendam,Swellendam,P24-116751728,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116751728
+1650000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,383,13,1,8,Vermont,Hermanus,P24-116823257,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116823257
+1650000.0,1,1,3,0.0,0.0,0,1,0,0,1,7,10,719,10,1,8,Sunny Seas Estate,Bettys Bay,P24-116795788,https://www.property24.com/for-sale/sunny-seas-estate/bettys-bay/western-cape/16332/116795788
+1650000.0,2,1,5,0.0,0.0,0,0,1,0,1,9,10,1706,19,1,5,Westcliff,Hermanus,P24-116770772,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116770772
+1650000.0,1,1,3,1.0,0.0,0,1,0,0,0,7,10,1569,11,1,5,Swellendam,Swellendam,P24-116657401,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116657401
+1650000.0,2,1,5,2.0,0.0,0,1,0,1,1,7,10,1296,24,1,4,Pearly Beach,Gansbaai,P24-116741748,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116741748
+1690000.0,4,2,9,2.0,0.0,1,1,1,1,1,7,10,1201,33,1,4,De Kelders,Gansbaai,P24-115212082,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/115212082
+1695000.0,3,2,7,8.0,972.0,0,1,1,1,1,7,10,1847,19,1,4,Pearly Beach,Gansbaai,P24-116737563,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116737563
+1695000.0,2,1,5,2.0,0.0,0,0,1,1,1,7,10,1786,34,1,4,Pearly Beach,Gansbaai,P24-116824648,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116824648
+1695000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,552,17,1,8,Suiderstrand,Suiderstrand,P24-116770790,https://www.property24.com/for-sale/suiderstrand/suiderstrand/western-cape/7822/116770790
+1750000.0,3,2,7,1.0,0.0,0,0,0,1,1,7,10,1033,29,1,5,Gansbaai Central,Gansbaai,P24-116714372,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116714372
+1750000.0,1,1,3,0.0,773.0,0,0,0,0,1,7,10,1533,10,1,8,Struisbaai,Struisbaai,P24-116803781,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116803781
+1750000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1248,23,1,8,Struisbaai,Struisbaai,P24-116780764,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116780764
+1795000.0,3,1,7,2.0,0.0,0,1,0,1,1,7,10,1186,22,1,4,Pearly Beach,Gansbaai,P24-116828739,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116828739
+1795000.0,3,2,7,3.0,0.0,1,1,0,1,0,7,10,1497,23,1,4,Grabouw Central,Grabouw,P24-116742858,https://www.property24.com/for-sale/grabouw-central/grabouw/western-cape/17973/116742858
+1795000.0,4,2,9,4.0,0.0,0,1,0,1,1,7,10,762,22,1,4,Kleinbaai,Gansbaai,P24-116835253,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116835253
+1800000.0,3,2,7,7.0,0.0,0,1,1,1,1,7,10,1721,46,1,4,Franskraal,Gansbaai,P24-116825211,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116825211
+1850000.0,2,2,5,5.0,0.0,0,1,1,1,0,7,10,1236,44,1,4,Napier,Napier,P24-115837565,https://www.property24.com/for-sale/napier/napier/western-cape/7877/115837565
+1870000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,1191,12,1,8,Vermont,Hermanus,P24-116836533,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116836533
+1885000.0,3,3,7,4.0,0.0,1,1,0,1,1,7,10,923,19,1,4,Perlemoenbaai,Gansbaai,P24-116795262,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116795262
+1890000.0,1,1,3,0.0,0.0,0,0,0,0,1,8,10,1157,14,1,8,Bettys Bay,Bettys Bay,P24-116783839,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116783839
+1890000.0,1,1,3,0.0,1456.0,0,0,0,0,1,7,10,832,7,1,8,Sunny Seas Estate,Bettys Bay,P24-116161671,https://www.property24.com/for-sale/sunny-seas-estate/bettys-bay/western-cape/16332/116161671
+1890000.0,2,2,5,2.0,0.0,1,1,0,1,1,7,10,1152,25,1,4,Kleinbaai,Gansbaai,P24-116779292,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116779292
+1890000.0,2,2,5,2.0,0.0,1,1,0,1,1,7,10,1091,27,1,4,Kleinbaai,Gansbaai,P24-116832295,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116832295
+1895000.0,3,3,7,2.0,0.0,0,0,1,0,1,7,10,369,29,1,4,Perlemoenbaai,Gansbaai,P24-116812356,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116812356
+1895000.0,3,3,7,4.0,0.0,0,0,1,0,1,7,10,1432,20,1,4,Perlemoenbaai,Gansbaai,P24-116786197,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116786197
+1895000.0,3,3,7,4.0,0.0,1,1,0,1,1,7,10,640,24,1,4,Perlemoenbaai,Gansbaai,P24-116775123,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116775123
+1895000.0,3,3,7,4.0,0.0,0,1,0,1,1,7,10,671,16,1,4,Perlemoenbaai,Gansbaai,P24-116777894,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116777894
+1895000.0,3,3,7,6.0,0.0,1,1,1,1,1,7,10,1215,21,1,4,Perlemoenbaai,Gansbaai,P24-116797601,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116797601
+1895000.0,3,3,7,5.0,500.0,0,1,0,1,1,7,10,2028,21,1,4,Perlemoenbaai,Gansbaai,P24-116785583,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116785583
+1900000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,564,11,1,8,Fisherhaven,Hermanus,P24-116791255,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/116791255
+1920000.0,2,1,5,0.0,0.0,0,1,0,0,0,7,10,1321,13,1,4,Villiersdorp,Villiersdorp,P24-116839980,https://www.property24.com/for-sale/villiersdorp/villiersdorp/western-cape/10613/116839980
+1950000.0,3,2,7,6.0,0.0,0,0,1,1,1,9,10,628,17,1,4,Hawston,Hermanus,P24-116618638,https://www.property24.com/for-sale/hawston/hermanus/western-cape/7854/116618638
+1950000.0,2,1,5,0.0,0.0,0,1,0,1,0,7,10,753,37,1,4,Napier,Napier,P24-116783902,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116783902
+1980000.0,3,2,7,4.0,0.0,0,1,0,1,1,8,10,1113,18,1,4,Bettys Bay,Bettys Bay,P24-116828302,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116828302
+1985000.0,6,2,13,6.0,0.0,0,0,0,0,0,7,10,1220,37,1,4,Grabouw,Grabouw,P24-116753849,https://www.property24.com/for-sale/grabouw/grabouw/western-cape/16681/116753849
+1995000.0,3,3,7,2.0,0.0,0,0,0,1,1,7,10,1512,13,1,4,Pringle Bay,Pringle Bay,P24-109403503,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/109403503
+1995000.0,3,3,7,3.0,0.0,0,1,0,1,0,7,10,417,15,1,4,Bot River Avenues,Bot River,P24-116773924,https://www.property24.com/for-sale/bot-river-avenues/bot-river/western-cape/33592/116773924
+1995000.0,1,1,3,0.0,977.0,0,0,0,0,1,8,10,851,9,1,8,Kleinmond Central,Kleinmond,P24-116796442,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116796442
+1999000.0,3,2,7,6.0,0.0,0,1,0,1,1,7,10,1405,32,1,4,De Kelders,Gansbaai,P24-116835337,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116835337
+2100000.0,2,1,5,6.0,0.0,0,1,1,1,1,7,10,1910,52,1,4,Pearly Beach,Gansbaai,P24-116791876,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116791876
+2100000.0,2,1,5,2.0,0.0,0,1,1,1,1,7,10,3563,24,1,4,Pearly Beach,Gansbaai,P24-116801861,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116801861
+2100000.0,2,1,5,6.0,0.0,0,1,1,1,1,7,10,1460,24,1,4,Pearly Beach,Gansbaai,P24-116754345,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116754345
+2100000.0,3,3,7,4.0,0.0,0,1,0,1,0,7,10,1585,20,1,4,Suurbraak,Swellendam,P24-116754245,https://www.property24.com/for-sale/suurbraak/swellendam/western-cape/7600/116754245
+2100000.0,1,1,3,0.0,828.0,0,0,1,0,1,8,10,1107,25,1,8,Stanford,Stanford,P24-116727820,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116727820
+2150000.0,1,1,3,0.0,1141.0,0,0,0,0,1,8,10,2496,10,1,11,Kleinmond Rural,Kleinmond,P24-116749820,https://www.property24.com/for-sale/kleinmond-rural/kleinmond/western-cape/16572/116749820
+2150000.0,2,2,5,4.0,0.0,0,1,0,1,0,7,10,1792,41,1,4,Baardskeerdersbos,Baardskeerdersbos,P24-116835251,https://www.property24.com/for-sale/baardskeerdersbos/baardskeerdersbos/western-cape/7878/116835251
+2154000.0,3,2,7,3.0,0.0,0,1,0,1,0,7,10,2183,27,1,4,Grabouw,Grabouw,P24-116814338,https://www.property24.com/for-sale/grabouw/grabouw/western-cape/16681/116814338
+2170000.0,3,2,7,7.0,0.0,0,1,0,1,1,7,10,1608,46,1,6,Franskraal,Gansbaai,P24-116782919,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116782919
+2175000.0,3,1,7,2.0,134.0,0,0,0,1,1,7,10,1326,25,1,4,Pearly Beach,Gansbaai,P24-116834173,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116834173
+2175000.0,3,2,7,8.0,1118.0,1,1,1,1,1,7,10,1800,15,1,4,Pearly Beach,Gansbaai,P24-116807472,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116807472
+2180000.0,3,2,7,0.0,0.0,0,1,0,1,1,7,10,898,16,1,4,De Kelders,Gansbaai,P24-115878295,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/115878295
+2190000.0,3,2,7,5.0,0.0,0,1,0,1,0,7,10,1418,58,1,4,Bredasdorp,Bredasdorp,P24-116774440,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116774440
+2195000.0,3,2,7,9.0,0.0,0,1,0,0,1,7,10,942,15,1,4,Pearly Beach,Gansbaai,P24-116822686,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116822686
+2195000.0,1,1,3,0.0,0.0,0,0,1,0,1,7,10,967,22,1,8,Romansbaai Estate,Gansbaai,P24-116741447,https://www.property24.com/for-sale/romansbaai-estate/gansbaai/western-cape/16042/116741447
+2200000.0,2,2,5,4.0,0.0,1,1,1,1,1,7,10,2218,35,1,4,Kleinbaai,Gansbaai,P24-116656887,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116656887
+2200000.0,3,4,7,8.0,0.0,1,0,1,1,0,7,10,2129,41,1,4,Bot River,Bot River,P24-115362549,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/115362549
+2200000.0,4,2,9,2.0,831.0,0,1,0,1,1,9,10,867,16,1,4,Sandbaai,Hermanus,P24-105814446,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/105814446
+2220000.0,3,2,7,6.0,0.0,1,1,1,1,1,7,10,2238,30,1,4,Franskraal,Gansbaai,P24-116561510,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116561510
+2250000.0,3,2,7,6.0,0.0,0,1,0,1,1,7,10,741,16,1,4,Kleinbaai,Gansbaai,P24-116673867,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116673867
+2250000.0,2,2,5,2.0,0.0,1,1,1,1,1,9,10,767,42,1,4,Meerenbosch,Hermanus,P24-116826190,https://www.property24.com/for-sale/meerenbosch/hermanus/western-cape/10454/116826190
+2250000.0,2,1,5,4.0,0.0,0,1,0,1,1,8,10,618,27,1,4,Palmiet,Kleinmond,P24-114960927,https://www.property24.com/for-sale/palmiet/kleinmond/western-cape/7842/114960927
+2300000.0,3,1,7,2.0,0.0,1,1,1,1,1,9,10,2261,39,1,4,Meerenbosch,Hermanus,P24-116721070,https://www.property24.com/for-sale/meerenbosch/hermanus/western-cape/10454/116721070
+2300000.0,2,2,5,4.0,181.0,1,1,0,1,1,7,10,1603,23,1,4,Franskraal,Gansbaai,P24-116602998,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116602998
+2300000.0,2,1,5,2.0,249.0,0,1,0,1,1,7,10,1251,22,1,4,Struisbaai,Struisbaai,P24-112160256,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/112160256
+2395000.0,2,2,5,10.0,0.0,0,1,1,1,1,7,10,1296,16,1,4,Pearly Beach,Gansbaai,P24-116822592,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116822592
+2395000.0,1,1,3,0.0,855.0,0,0,0,0,1,9,10,1097,15,1,8,Sandbaai,Hermanus,P24-116745796,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116745796
+2400000.0,4,3,9,5.0,0.0,0,1,0,1,1,8,10,1256,43,1,4,Kleinmond Central,Kleinmond,P24-116724836,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116724836
+2400000.0,1,1,3,0.0,1870.0,0,1,0,0,1,8,10,2192,11,1,8,Bettys Bay,Bettys Bay,P24-116752677,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116752677
+2400000.0,4,2,9,8.0,0.0,0,1,0,1,1,8,10,1600,26,1,4,Bettys Bay,Bettys Bay,P24-114197844,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/114197844
+2450000.0,2,1,5,1.0,0.0,1,1,1,1,1,9,10,1407,31,1,5,Westcliff,Hermanus,P24-116788245,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116788245
+2450000.0,3,2,7,4.0,0.0,0,1,1,1,1,7,10,796,23,1,4,De Kelders,Gansbaai,P24-116610377,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116610377
+2450000.0,3,2,7,4.0,0.0,0,1,0,0,1,7,10,814,30,1,4,De Kelders,Gansbaai,P24-106372796,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/106372796
+2450000.0,3,2,7,4.0,0.0,1,1,1,1,1,7,10,2254,55,1,4,Gansbaai Central,Gansbaai,P24-116755747,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116755747
+2450000.0,2,2,5,1.0,0.0,0,0,0,0,1,7,10,2131,22,1,5,De Kelders,Gansbaai,P24-116759353,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116759353
+2480000.0,2,1,5,2.0,0.0,0,1,0,1,1,8,10,832,24,1,4,Bettys Bay,Bettys Bay,P24-116696736,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116696736
+2485000.0,3,1,7,8.0,0.0,0,1,1,1,0,7,10,1518,21,1,4,Villiersdorp,Villiersdorp,P24-116818288,https://www.property24.com/for-sale/villiersdorp/villiersdorp/western-cape/10613/116818288
+2495000.0,1,1,3,0.0,810.0,1,0,1,0,1,7,10,890,21,1,8,Struisbaai,Struisbaai,P24-116655368,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116655368
+2495000.0,3,2,7,6.0,0.0,0,1,1,1,0,7,10,1432,22,1,4,Swellendam,Swellendam,P24-116742236,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116742236
+2495000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,468,18,1,8,Struisbaai,Struisbaai,P24-116734591,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116734591
+2499900.0,4,1,9,2.0,0.0,1,1,0,1,1,7,10,1248,23,1,4,Franskraal,Gansbaai,P24-116725569,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116725569
+2500000.0,4,2,9,6.0,0.0,0,1,1,1,0,7,10,2277,24,1,4,Napier,Napier,P24-116810070,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116810070
+2500000.0,3,2,7,6.0,845.0,0,1,0,1,1,7,10,2184,43,1,4,Pearly Beach,Gansbaai,P24-116320146,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116320146
+2500000.0,3,2,7,2.0,0.0,0,0,0,1,1,7,10,1100,22,1,4,Kleinbaai,Gansbaai,P24-116816793,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116816793
+2500000.0,3,3,7,2.0,0.0,0,0,1,0,1,8,10,930,33,1,4,Kleinmond Central,Kleinmond,P24-116808443,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116808443
+2500000.0,4,2,9,2.0,0.0,0,1,1,1,0,7,10,1472,43,1,4,Napier,Napier,P24-116527527,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116527527
+2500000.0,3,1,7,6.0,0.0,0,1,0,1,0,7,10,1480,36,1,4,Grabouw,Grabouw,P24-116740466,https://www.property24.com/for-sale/grabouw/grabouw/western-cape/16681/116740466
+2500000.0,2,2,5,4.0,0.0,0,1,0,0,1,8,10,1269,25,1,4,Bettys Bay,Bettys Bay,P24-116751757,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116751757
+2500000.0,4,2,9,8.0,0.0,0,1,0,1,0,7,10,1620,44,1,4,Napier,Napier,P24-116811407,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116811407
+2500000.0,3,2,7,4.0,0.0,0,0,0,1,1,7,10,967,21,1,4,Kleinbaai,Gansbaai,P24-116785313,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116785313
+2500000.0,2,2,5,0.0,0.0,0,1,0,0,0,7,10,951,19,1,4,Baardskeerdersbos,Baardskeerdersbos,P24-116755894,https://www.property24.com/for-sale/baardskeerdersbos/baardskeerdersbos/western-cape/7878/116755894
+2550000.0,2,1,5,2.0,0.0,0,0,1,0,0,7,10,1514,24,1,4,Bot River,Bot River,P24-116780490,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/116780490
+2550000.0,3,2,7,2.0,0.0,0,1,0,1,1,7,10,1317,18,1,4,Struisbaai,Struisbaai,P24-116741116,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116741116
+2556500.0,3,2,7,4.0,0.0,0,1,0,1,0,7,10,688,15,1,4,Swellendam,Swellendam,P24-116721292,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116721292
+2595000.0,3,1,7,3.0,925.0,1,1,0,1,1,7,10,850,22,1,4,Struisbaai,Struisbaai,P24-116800835,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116800835
+2600000.0,2,2,5,5.0,93.0,0,1,1,1,1,9,10,1459,22,1,5,Westcliff,Hermanus,P24-116655852,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116655852
+2600000.0,3,2,7,2.0,800.0,1,1,0,1,1,8,10,542,19,1,4,Heuningkloof,Kleinmond,P24-111830713,https://www.property24.com/for-sale/heuningkloof/kleinmond/western-cape/7839/111830713
+2600000.0,1,2,3,6.0,0.0,0,1,0,1,0,7,10,1545,21,1,4,Swellendam,Swellendam,P24-116765969,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116765969
+2600000.0,4,1,9,2.0,0.0,1,1,0,0,1,7,10,2364,30,1,4,Franskraal,Gansbaai,P24-116778137,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116778137
+2600000.0,4,3,9,2.0,0.0,0,0,0,0,0,7,10,1506,22,1,4,Caledon,Caledon,P24-116731024,https://www.property24.com/for-sale/caledon/caledon/western-cape/7873/116731024
+2650000.0,2,2,5,4.0,0.0,1,1,1,1,1,9,10,1380,27,1,4,Sandbaai,Hermanus,P24-116679935,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116679935
+2650000.0,3,2,7,3.0,0.0,1,1,1,1,1,9,10,1037,24,1,4,Sandbaai,Hermanus,P24-116799965,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116799965
+2650000.0,4,3,9,6.0,0.0,0,1,1,1,0,7,10,2460,33,1,4,Bot River,Bot River,P24-116714260,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/116714260
+2690000.0,4,3,9,7.0,933.0,0,1,1,1,1,7,10,1769,58,1,4,Kleinbaai,Gansbaai,P24-116830484,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116830484
+2690000.0,4,3,9,4.0,0.0,0,1,0,1,1,7,10,989,27,1,4,Kleinbaai,Gansbaai,P24-109001190,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/109001190
+2690000.0,4,3,9,8.0,933.0,0,1,1,1,1,7,10,2581,29,1,4,Kleinbaai,Gansbaai,P24-116549040,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116549040
+2690000.0,4,3,9,4.0,0.0,0,1,0,0,1,7,10,535,65,1,4,Kleinbaai,Gansbaai,P24-115817739,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/115817739
+2690000.0,3,3,7,3.0,933.0,0,0,0,1,1,7,10,511,26,1,4,Klipfonteyn,Gansbaai,P24-116816713,https://www.property24.com/for-sale/klipfonteyn/gansbaai/western-cape/7867/116816713
+2690000.0,4,3,9,4.0,0.0,0,0,0,1,1,7,10,1332,28,1,4,Kleinbaai,Gansbaai,P24-115604938,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/115604938
+2690000.0,4,3,9,8.0,0.0,1,1,1,1,1,7,10,2119,52,1,4,Kleinbaai,Gansbaai,P24-115258111,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/115258111
+2695000.0,4,2,9,6.0,0.0,0,1,0,1,1,7,10,1053,19,1,4,Bredasdorp,Bredasdorp,P24-116748712,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116748712
+2695000.0,4,4,9,2.0,0.0,0,1,0,1,1,7,10,813,22,1,4,Kleinbaai,Gansbaai,P24-115789557,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/115789557
+2695000.0,4,3,9,6.0,0.0,0,1,1,1,1,7,10,865,30,1,4,Franskraal,Gansbaai,P24-116749132,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116749132
+2735000.0,1,1,3,0.0,152.0,0,0,0,0,1,7,10,2106,18,1,8,Pearly Beach,Gansbaai,P24-116816228,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116816228
+2750000.0,3,2,7,6.0,0.0,0,1,1,1,0,7,10,1977,26,1,4,Swellendam,Swellendam,P24-116651529,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116651529
+2750000.0,3,3,7,6.0,0.0,0,1,0,1,0,7,10,1734,57,1,4,Bredasdorp,Bredasdorp,P24-116708762,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116708762
+2750000.0,3,2,7,3.0,0.0,0,1,1,1,1,9,10,2192,23,1,4,Fisherhaven,Hermanus,P24-116766521,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/116766521
+2775000.0,3,2,7,8.0,0.0,0,1,0,0,1,7,10,620,36,1,4,Perlemoenbaai,Gansbaai,P24-116812533,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116812533
+2795000.0,4,3,9,6.0,0.0,0,1,0,1,0,7,10,1240,42,1,4,Napier,Napier,P24-116707874,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116707874
+2795000.0,3,2,7,4.0,0.0,1,1,1,1,1,9,10,1393,25,1,4,Sandbaai,Hermanus,P24-116669592,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116669592
+2800000.0,1,1,3,0.0,0.0,0,0,0,0,1,8,10,1411,10,1,8,Klein Berlyn,Kleinmond,P24-116829448,https://www.property24.com/for-sale/klein-berlyn/kleinmond/western-cape/7840/116829448
+2800000.0,3,2,7,8.0,70.0,0,1,0,1,1,8,10,1826,18,1,4,Bettys Bay,Bettys Bay,P24-116713975,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116713975
+2800000.0,3,2,7,8.0,70.0,0,1,0,1,1,8,10,1938,16,1,4,Bettys Bay,Bettys Bay,P24-116645277,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116645277
+2800000.0,1,1,3,3.0,0.0,0,1,0,1,0,7,10,792,18,1,4,Swellendam,Swellendam,P24-112131419,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/112131419
+2850000.0,3,2,7,0.0,0.0,0,1,0,1,1,7,10,2925,32,1,4,Pringle Bay,Pringle Bay,P24-115764487,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/115764487
+2850000.0,3,2,7,4.0,0.0,0,1,0,1,1,8,10,809,34,1,4,Bettys Bay,Bettys Bay,P24-116602653,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116602653
+2875000.0,3,2,7,2.0,0.0,0,1,0,1,1,7,10,1269,25,1,4,Pringle Bay,Pringle Bay,P24-115404214,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/115404214
+2890000.0,4,2,9,3.0,0.0,0,1,1,1,1,7,10,1781,22,1,4,Kleinbaai,Gansbaai,P24-116808344,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116808344
+2895000.0,5,2,11,4.0,0.0,0,1,0,1,1,7,10,658,23,1,4,Perlemoenbaai,Gansbaai,P24-116528082,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116528082
+2895000.0,5,2,11,2.0,0.0,0,1,1,0,1,7,10,734,38,1,4,Perlemoenbaai,Gansbaai,P24-116828329,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116828329
+2895000.0,5,2,11,1.0,0.0,0,1,0,0,1,7,10,1091,39,1,4,Perlemoenbaai,Gansbaai,P24-116818024,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116818024
+2895000.0,3,2,7,2.0,0.0,0,1,0,1,0,7,10,958,18,1,4,Struisbaai,Struisbaai,P24-116812199,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116812199
+2895000.0,5,3,11,2.0,0.0,1,1,1,1,1,7,10,1443,37,1,4,Perlemoenbaai,Gansbaai,P24-116835630,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116835630
+2900000.0,1,1,3,0.0,0.0,0,0,1,0,1,9,10,1053,21,1,8,Onrus,Hermanus,P24-116825102,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116825102
+2900000.0,3,2,7,5.0,0.0,0,1,0,1,1,9,10,974,20,1,4,Fisherhaven,Hermanus,P24-115317207,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/115317207
+2950000.0,1,1,3,0.0,945.0,0,1,0,0,0,7,10,3631,46,1,11,Riviersonderend,Riviersonderend,P24-116814570,https://www.property24.com/for-sale/riviersonderend/riviersonderend/western-cape/7876/116814570
+2950000.0,1,1,3,0.0,317.0,0,1,0,0,0,7,10,2146,22,1,11,Riviersonderend,Riviersonderend,P24-116404437,https://www.property24.com/for-sale/riviersonderend/riviersonderend/western-cape/7876/116404437
+2950000.0,3,2,7,4.0,0.0,0,1,0,1,1,9,10,847,34,1,4,Sandbaai,Hermanus,P24-116692809,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116692809
+2950000.0,3,2,7,6.0,0.0,0,1,0,1,1,9,10,1058,16,1,4,Sandbaai,Hermanus,P24-116754380,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116754380
+2950000.0,3,2,7,3.0,0.0,1,1,0,1,1,9,10,1146,14,1,4,Onrus,Hermanus,P24-116740213,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116740213
+2950000.0,4,2,9,4.0,0.0,0,1,0,1,0,7,10,1049,21,1,4,Swellendam,Swellendam,P24-116701333,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116701333
+2970000.0,5,3,11,8.0,400.0,0,1,1,1,1,7,10,1545,27,1,4,Franskraal,Gansbaai,P24-116552722,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116552722
+2970000.0,2,2,5,3.0,0.0,1,1,0,1,1,7,10,1199,25,1,4,Franskraal,Gansbaai,P24-116806416,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116806416
+2970000.0,5,3,11,8.0,400.0,0,1,1,1,1,7,10,1692,67,1,4,Franskraal,Gansbaai,P24-116585434,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116585434
+2970000.0,5,3,11,8.0,400.0,0,1,1,1,1,7,10,2268,62,1,4,Franskraal,Gansbaai,P24-116569282,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116569282
+2995000.0,3,3,7,4.0,0.0,0,1,1,1,0,7,10,996,27,1,4,Bredasdorp,Bredasdorp,P24-116753042,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116753042
+2995000.0,3,2,7,5.0,0.0,1,1,1,0,1,8,10,792,27,1,4,Kleinmond Central,Kleinmond,P24-106672850,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/106672850
+2995000.0,2,2,5,2.0,125.0,0,1,0,1,1,8,10,557,6,1,4,Bettys Bay,Bettys Bay,P24-116796028,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116796028
+2995000.0,3,2,7,4.0,0.0,0,1,1,1,1,7,10,2043,26,1,4,Kleinbaai,Gansbaai,P24-114106253,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/114106253
+2995000.0,3,2,7,6.0,605.0,0,1,0,1,1,7,10,1225,33,1,4,Kleinbaai,Gansbaai,P24-116289270,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116289270
+2995000.0,3,2,7,0.0,210.0,0,0,0,1,1,7,10,995,22,1,4,Kleinbaai,Gansbaai,P24-116685891,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116685891
+2995000.0,3,2,7,4.0,0.0,0,1,1,0,1,7,10,1063,24,1,4,Kleinbaai,Gansbaai,P24-116831609,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116831609
+2995000.0,2,2,5,4.0,0.0,0,1,0,1,1,7,10,1360,28,1,4,Pringle Bay,Pringle Bay,P24-116718430,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116718430
+2995000.0,3,2,7,6.0,0.0,1,1,0,1,1,8,10,459,22,1,4,Heuningkloof,Kleinmond,P24-116699803,https://www.property24.com/for-sale/heuningkloof/kleinmond/western-cape/7839/116699803
+2995000.0,2,2,5,5.0,0.0,0,1,1,1,0,7,10,1543,22,1,4,Struisbaai,Struisbaai,P24-116656877,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116656877
+3090000.0,4,2,9,4.0,0.0,0,1,0,1,1,8,10,729,25,1,4,Bettys Bay,Bettys Bay,P24-116578468,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116578468
+3095000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1392,11,1,8,Rooi Els,Rooi Els,P24-116839833,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116839833
+3095000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,1194,13,1,8,Rooi Els,Rooi Els,P24-116839693,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116839693
+3100000.0,1,1,3,0.0,0.0,1,0,0,0,1,7,10,1332,18,1,8,Rooi Els,Rooi Els,P24-116823072,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116823072
+3100000.0,3,2,7,4.0,0.0,0,1,1,1,0,7,10,1252,17,1,4,Swellendam,Swellendam,P24-116839263,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116839263
+3150000.0,5,3,11,6.0,0.0,0,1,1,1,1,7,10,964,28,1,4,Franskraal,Gansbaai,P24-113798920,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/113798920
+3150000.0,7,2,15,4.0,0.0,0,0,0,1,1,7,10,671,50,1,4,Franskraal,Gansbaai,P24-116830589,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116830589
+3175000.0,3,2,7,4.0,0.0,0,1,0,1,1,7,10,1921,32,1,4,Gansbaai Central,Gansbaai,P24-116727563,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116727563
+3175000.0,4,2,9,4.0,0.0,0,1,0,1,0,7,10,763,19,1,4,Bredasdorp,Bredasdorp,P24-116783749,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116783749
+3180000.0,5,3,11,5.0,0.0,0,1,0,1,1,7,10,885,25,1,4,Franskraal,Gansbaai,P24-116552830,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116552830
+3180000.0,5,3,11,8.0,336.0,0,1,0,1,1,7,10,2963,36,1,4,Franskraal,Gansbaai,P24-116809300,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116809300
+3180000.0,5,3,11,6.0,0.0,0,1,0,1,1,7,10,1706,25,1,4,Franskraal,Gansbaai,P24-116674559,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116674559
+3180000.0,5,3,11,4.0,0.0,0,1,0,0,1,7,10,1565,30,1,4,Franskraal,Gansbaai,P24-116700840,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116700840
+3195000.0,5,3,11,4.0,0.0,0,0,0,1,1,8,10,1697,69,1,4,Klein Berlyn,Kleinmond,P24-116519531,https://www.property24.com/for-sale/klein-berlyn/kleinmond/western-cape/7840/116519531
+3195000.0,3,2,7,2.0,0.0,0,1,1,1,1,8,10,2118,51,1,4,Palmiet,Kleinmond,P24-116756108,https://www.property24.com/for-sale/palmiet/kleinmond/western-cape/7842/116756108
+3200000.0,3,2,7,8.0,0.0,1,1,1,1,1,8,10,1694,21,1,4,Palmiet,Kleinmond,P24-116690961,https://www.property24.com/for-sale/palmiet/kleinmond/western-cape/7842/116690961
+3200000.0,1,1,3,0.0,0.0,1,1,0,0,1,7,10,1255,22,1,8,Rooi Els,Rooi Els,P24-116832604,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116832604
+3200000.0,2,2,5,2.0,0.0,0,1,1,0,1,8,10,930,21,1,4,Kleinmond Central,Kleinmond,P24-116766766,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116766766
+3200000.0,3,2,7,6.0,0.0,0,1,0,0,1,8,10,523,29,1,4,Palmiet,Kleinmond,P24-107267280,https://www.property24.com/for-sale/palmiet/kleinmond/western-cape/7842/107267280
+3200000.0,2,2,5,2.0,0.0,0,1,0,1,1,7,10,1761,35,1,4,Pringle Bay,Pringle Bay,P24-116762025,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116762025
+3200000.0,3,2,7,4.0,0.0,1,1,1,1,1,9,10,1262,24,1,4,Sandbaai,Hermanus,P24-116496432,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116496432
+3250000.0,2,2,5,3.0,0.0,0,1,0,1,1,9,10,403,20,1,6,Sandbaai,Hermanus,P24-116823333,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116823333
+3250000.0,2,2,5,3.0,0.0,0,0,0,1,1,9,10,788,32,1,4,Sandbaai,Hermanus,P24-116830247,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116830247
+3250000.0,2,2,5,3.0,0.0,1,1,1,1,1,9,10,1317,13,1,4,Sandbaai,Hermanus,P24-116838247,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116838247
+3250000.0,2,2,5,2.0,0.0,1,0,1,1,1,9,10,1114,16,1,4,Sandbaai,Hermanus,P24-116827158,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116827158
+3250000.0,2,2,5,2.0,0.0,0,1,1,1,1,9,10,962,20,1,4,Sandbaai,Hermanus,P24-116823685,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116823685
+3250000.0,2,2,5,3.0,0.0,1,1,1,1,1,9,10,1295,33,1,4,Sandbaai,Hermanus,P24-116836463,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116836463
+3295000.0,3,3,7,4.0,0.0,1,1,0,1,1,9,10,868,34,1,4,Sandbaai,Hermanus,P24-115046858,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/115046858
+3300000.0,4,3,9,6.0,0.0,1,1,1,1,1,8,10,1985,30,1,4,Bettys Bay,Bettys Bay,P24-116421831,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116421831
+3300000.0,3,2,7,5.0,0.0,1,1,0,1,1,9,10,1387,20,1,4,Sandbaai,Hermanus,P24-116798851,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116798851
+3300000.0,2,2,5,4.0,0.0,0,1,0,1,0,7,10,2395,42,1,4,Napier,Napier,P24-116737420,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116737420
+3300000.0,1,1,3,0.0,1496.0,1,0,1,0,1,7,10,1123,27,1,8,Romansbaai Estate,Gansbaai,P24-115888689,https://www.property24.com/for-sale/romansbaai-estate/gansbaai/western-cape/16042/115888689
+3300000.0,3,2,7,2.0,0.0,0,1,0,1,1,9,10,1166,17,1,4,Sandbaai,Hermanus,P24-116738712,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116738712
+3395000.0,3,3,7,6.0,0.0,0,1,0,1,1,7,10,1204,22,1,4,Struisbaai,Struisbaai,P24-116836025,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116836025
+3395000.0,4,3,9,4.0,0.0,0,1,1,1,1,7,10,1896,45,1,4,Franskraal,Gansbaai,P24-116810808,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116810808
+3395000.0,3,3,7,4.0,0.0,0,0,0,1,1,7,10,991,63,1,4,Struisbaai,Struisbaai,P24-116836037,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116836037
+3395000.0,5,2,11,6.0,833.0,0,1,0,1,1,7,10,2782,35,1,4,Franskraal,Gansbaai,P24-116761272,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116761272
+3399000.0,3,2,7,4.0,0.0,0,1,1,1,1,7,10,1020,51,1,4,Struisbaai,Struisbaai,P24-116740966,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116740966
+3399000.0,3,3,7,2.0,0.0,0,1,1,0,1,7,10,1524,17,1,4,Struisbaai,Struisbaai,P24-116829216,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116829216
+3400000.0,3,3,7,10.0,0.0,0,1,0,1,1,7,10,1647,18,1,4,Pringle Bay,Pringle Bay,P24-116823929,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116823929
+3400000.0,3,3,7,2.0,0.0,0,1,1,1,1,7,10,2197,29,1,4,Pringle Bay,Pringle Bay,P24-116743181,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116743181
+3400000.0,4,2,9,4.0,0.0,0,0,0,1,1,7,10,1496,16,1,4,Agulhas,Agulhas,P24-116706090,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116706090
+3400000.0,4,3,9,9.0,0.0,0,0,0,1,1,7,10,951,16,1,4,Kleinbaai,Gansbaai,P24-116839273,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116839273
+3400000.0,4,4,9,7.0,792.0,0,1,0,1,1,7,10,1132,40,1,4,Kleinbaai,Gansbaai,P24-116814296,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116814296
+3400000.0,4,3,9,6.0,0.0,0,0,0,1,1,7,10,1121,45,1,4,De Kelders,Gansbaai,P24-116838781,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116838781
+3400000.0,3,3,7,10.0,0.0,0,0,0,1,1,7,10,1582,16,1,4,Pringle Bay,Pringle Bay,P24-116824303,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116824303
+3400000.0,4,3,9,6.0,0.0,0,1,0,1,1,7,10,1458,38,1,4,De Kelders,Gansbaai,P24-116759541,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116759541
+3400000.0,4,3,9,6.0,0.0,0,1,0,1,1,7,10,927,34,1,4,De Kelders,Gansbaai,P24-116752294,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116752294
+3450000.0,6,4,13,6.0,0.0,0,1,0,1,1,7,10,2458,64,1,4,Pearly Beach,Gansbaai,P24-116767769,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116767769
+3450000.0,3,2,7,5.0,1619.0,0,1,0,1,1,7,10,1566,20,1,4,Pringle Bay,Pringle Bay,P24-116772130,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116772130
+3450000.0,4,2,9,1.0,0.0,1,1,0,1,1,9,10,1414,23,1,4,Sandbaai,Hermanus,P24-116841415,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116841415
+3450000.0,3,2,7,6.0,0.0,0,1,1,1,1,8,10,1236,27,1,4,Bettys Bay,Bettys Bay,P24-116710281,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116710281
+3450000.0,3,3,7,2.0,0.0,0,1,0,1,1,7,10,1896,36,1,4,Struisbaai,Struisbaai,P24-116841283,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116841283
+3450000.0,3,2,7,4.0,0.0,0,1,0,1,1,7,10,1833,44,1,4,Kleinbaai,Gansbaai,P24-116737784,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116737784
+3450000.0,4,2,9,5.0,0.0,1,1,0,1,1,9,10,1032,20,1,4,Westcliff,Hermanus,P24-116764031,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116764031
+3450000.0,4,4,9,4.0,0.0,0,1,1,1,1,7,10,1906,35,1,4,Struisbaai,Struisbaai,P24-116733138,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116733138
+3450000.0,4,2,9,2.0,1000.0,1,0,0,1,1,9,10,992,15,1,4,Sandbaai,Hermanus,P24-116700906,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116700906
+3490000.0,3,2,7,8.0,0.0,1,1,0,1,1,7,10,1525,36,1,4,Kleinbaai,Gansbaai,P24-116572504,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116572504
+3495000.0,2,1,5,3.0,0.0,0,1,0,1,1,9,10,1043,55,1,4,Sandbaai,Hermanus,P24-116692916,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116692916
+3545000.0,1,1,3,0.0,1207.0,1,0,1,0,1,9,10,1132,11,1,8,Hemel en Aarde Estate,Hermanus,P24-114604045,https://www.property24.com/for-sale/hemel-en-aarde-estate/hermanus/western-cape/14360/114604045
+3550000.0,3,3,7,4.0,0.0,0,1,0,0,1,8,10,1289,51,1,4,Kleinmond Central,Kleinmond,P24-116696418,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116696418
+3595000.0,4,3,9,4.0,0.0,1,1,1,1,1,8,10,1375,31,1,4,Bettys Bay,Bettys Bay,P24-107830106,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/107830106
+3599000.0,3,2,7,5.0,0.0,0,1,0,1,1,7,10,1311,17,1,4,Struisbaai,Struisbaai,P24-116766124,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116766124
+3600000.0,4,3,9,6.0,0.0,1,1,0,1,1,7,10,1926,44,1,4,De Kelders,Gansbaai,P24-116765522,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116765522
+3600000.0,4,3,9,6.0,0.0,0,1,1,1,1,7,10,1711,41,1,4,De Kelders,Gansbaai,P24-116764962,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116764962
+3600000.0,4,3,9,8.0,0.0,0,1,0,1,1,8,10,657,43,1,4,Kleinmond Central,Kleinmond,P24-116802072,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116802072
+3600000.0,2,2,5,6.0,0.0,0,1,1,0,0,7,10,1955,30,1,4,Swellendam,Swellendam,P24-116272568,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116272568
+3650000.0,1,1,3,4.0,0.0,0,1,1,0,1,7,10,771,36,1,4,Gansbaai Central,Gansbaai,P24-116834494,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116834494
+3650000.0,3,1,7,3.0,0.0,0,1,0,1,0,7,10,678,20,1,4,Greyton,Caledon,P24-116834872,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116834872
+3650000.0,3,2,7,5.0,0.0,0,1,1,1,1,8,10,1321,24,1,4,Bettys Bay,Bettys Bay,P24-116781267,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116781267
+3650000.0,3,3,7,3.0,0.0,0,0,0,1,1,9,10,1117,54,1,4,Onrus,Hermanus,P24-116794336,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116794336
+3650000.0,3,2,7,6.0,0.0,0,1,0,1,1,7,10,898,31,1,4,Struisbaai,Struisbaai,P24-116722055,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116722055
+3650000.0,3,2,7,4.0,0.0,1,1,0,1,1,9,10,1991,31,1,6,Sandbaai,Hermanus,P24-116828153,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116828153
+3680000.0,4,3,9,4.0,0.0,0,1,1,1,1,7,10,3414,24,1,4,Struisbaai,Struisbaai,P24-116615459,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116615459
+3695000.0,5,3,11,6.0,426.0,0,1,1,1,1,7,10,1326,41,1,4,Franskraal,Gansbaai,P24-116094210,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116094210
+3695000.0,5,3,11,8.0,426.0,0,1,1,1,1,7,10,2861,42,1,4,Franskraal,Gansbaai,P24-116824574,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116824574
+3750000.0,5,4,11,6.0,0.0,0,1,1,1,1,7,10,1135,39,1,4,Suiderstrand,Suiderstrand,P24-115152467,https://www.property24.com/for-sale/suiderstrand/suiderstrand/western-cape/7822/115152467
+3750000.0,3,2,7,7.0,0.0,0,1,1,1,0,7,10,1954,58,1,4,Swellendam,Swellendam,P24-116793001,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116793001
+3750000.0,3,2,7,7.0,0.0,0,1,0,1,0,7,10,1097,32,1,4,Swellendam,Swellendam,P24-116793815,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116793815
+3750000.0,5,4,11,6.0,0.0,0,1,0,1,1,7,10,2075,26,1,4,Suiderstrand,Suiderstrand,P24-116825090,https://www.property24.com/for-sale/suiderstrand/suiderstrand/western-cape/7822/116825090
+3790000.0,2,2,5,3.0,0.0,0,1,1,1,1,9,10,1468,12,1,4,De Zandt Lifestyle Estate,Hermanus,P24-116756572,https://www.property24.com/for-sale/de-zandt-lifestyle-estate/hermanus/western-cape/33207/116756572
+3790000.0,2,2,5,4.0,0.0,0,1,1,1,1,9,10,1293,8,1,4,De Zandt Lifestyle Estate,Hermanus,P24-116755403,https://www.property24.com/for-sale/de-zandt-lifestyle-estate/hermanus/western-cape/33207/116755403
+3800000.0,3,2,7,6.0,0.0,0,1,0,1,1,9,10,640,28,1,4,Onrus,Hermanus,P24-116322832,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116322832
+3800000.0,4,2,9,9.0,0.0,0,1,0,1,0,7,10,1643,52,1,4,Swellendam,Swellendam,P24-116771851,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116771851
+3800000.0,1,2,3,8.0,184.0,0,1,0,1,0,7,10,539,19,1,4,Greyton,Caledon,P24-116744245,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116744245
+3800000.0,4,4,9,7.0,0.0,0,1,0,1,1,8,10,1467,24,1,4,Klein Berlyn,Kleinmond,P24-116750091,https://www.property24.com/for-sale/klein-berlyn/kleinmond/western-cape/7840/116750091
+3800000.0,3,3,7,2.0,0.0,1,1,1,1,0,7,10,1940,27,1,4,Theewaterskloof Country Estate,Villiersdorp,P24-116672550,https://www.property24.com/for-sale/theewaterskloof-country-estate/villiersdorp/western-cape/33399/116672550
+3800000.0,4,3,9,8.0,0.0,1,1,1,1,1,7,10,1609,37,1,4,De Kelders,Gansbaai,P24-111705866,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/111705866
+3800000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,636,24,1,11,Bredasdorp,Bredasdorp,P24-116749990,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116749990
+3800000.0,5,3,11,6.0,80.0,0,1,1,1,1,7,10,720,44,1,4,De Kelders,Gansbaai,P24-116724163,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116724163
+3850000.0,3,3,7,8.0,0.0,0,1,0,1,1,7,10,1933,53,1,4,Franskraal,Gansbaai,P24-115402823,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/115402823
+3890000.0,1,1,3,0.0,0.0,0,0,0,0,1,8,10,1171,16,1,8,Bettys Bay,Bettys Bay,P24-116784264,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116784264
+3900000.0,3,2,7,5.0,0.0,1,1,0,1,1,9,10,923,39,1,4,Sandbaai,Hermanus,P24-116798083,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116798083
+3900000.0,4,4,9,0.0,0.0,1,1,1,1,1,9,10,1818,20,1,4,Vermont,Hermanus,P24-116693167,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116693167
+3900000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,549,19,1,11,Fisherhaven,Hermanus,P24-116748568,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/116748568
+3950000.0,3,2,7,6.0,0.0,0,1,0,1,1,7,10,2273,37,1,4,Pringle Bay,Pringle Bay,P24-116765862,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116765862
+3950000.0,2,2,5,3.0,0.0,0,0,1,1,0,7,10,1161,20,1,4,Greyton,Caledon,P24-116774999,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116774999
+3950000.0,3,3,7,3.0,0.0,1,1,1,1,1,8,10,1484,20,1,4,Bettys Bay,Bettys Bay,P24-116669916,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116669916
+3950000.0,4,3,9,10.0,85.0,0,1,1,1,1,7,10,2004,46,1,4,De Kelders,Gansbaai,P24-116818272,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116818272
+3980000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,924,5,1,8,Vermont,Hermanus,P24-116626804,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116626804
+3995000.0,4,4,9,4.0,0.0,0,1,0,1,0,7,10,1849,38,1,4,Struisbaai,Struisbaai,P24-116745606,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116745606
+3995000.0,3,3,7,6.0,0.0,0,1,1,1,1,9,10,1660,40,1,4,Sandbaai,Hermanus,P24-115882766,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/115882766
+3995000.0,4,3,9,4.0,0.0,0,1,0,1,1,7,10,868,31,1,4,Kleinbaai,Gansbaai,P24-116749804,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116749804
+3999000.0,4,4,9,6.0,0.0,0,0,0,1,1,7,10,1000,69,1,4,Pearly Beach,Gansbaai,P24-116755829,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/116755829
+3999000.0,6,3,13,8.0,0.0,0,0,0,1,1,8,10,1389,37,1,4,Klein Berlyn,Kleinmond,P24-116779896,https://www.property24.com/for-sale/klein-berlyn/kleinmond/western-cape/7840/116779896
+4020000.0,4,2,9,7.0,0.0,0,1,0,1,0,7,10,931,18,1,4,Bredasdorp,Bredasdorp,P24-116660567,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116660567
+4020000.0,4,2,9,5.0,0.0,0,0,0,1,0,7,10,1213,31,1,4,Bredasdorp,Bredasdorp,P24-116660044,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116660044
+4150000.0,3,3,7,6.0,250.0,1,1,0,1,1,8,10,1077,62,1,4,Stanford,Stanford,P24-116770245,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116770245
+4190000.0,4,4,9,4.0,0.0,0,1,0,0,1,7,10,1413,35,1,4,De Kelders,Gansbaai,P24-116835627,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116835627
+4190000.0,4,3,9,2.0,0.0,1,1,1,1,1,7,10,1243,40,1,4,De Kelders,Gansbaai,P24-116811556,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116811556
+4200000.0,3,2,7,6.0,0.0,0,1,0,1,0,7,10,1373,48,1,4,Swellendam,Swellendam,P24-116834579,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116834579
+4200000.0,5,4,11,8.0,620.0,0,1,1,1,1,7,10,1971,55,1,4,Kleinbaai,Gansbaai,P24-116586282,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116586282
+4200000.0,5,4,11,4.0,0.0,0,0,0,0,1,7,10,511,27,1,4,Klipfonteyn,Gansbaai,P24-116612641,https://www.property24.com/for-sale/klipfonteyn/gansbaai/western-cape/7867/116612641
+4200000.0,4,2,9,6.0,0.0,0,1,0,0,0,7,10,806,38,1,4,Swellendam,Swellendam,P24-116807918,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116807918
+4200000.0,3,2,7,6.0,0.0,0,1,1,1,0,7,10,1439,33,1,4,Swellendam,Swellendam,P24-116832366,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116832366
+4250000.0,3,2,7,6.0,0.0,1,1,1,1,1,9,10,1467,19,1,4,Hemel en Aarde Estate,Hermanus,P24-116738493,https://www.property24.com/for-sale/hemel-en-aarde-estate/hermanus/western-cape/14360/116738493
+4250000.0,3,2,7,4.0,0.0,0,1,0,1,1,7,10,1078,27,1,4,Struisbaai,Struisbaai,P24-116698914,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116698914
+4250000.0,1,1,3,0.0,0.0,0,0,0,0,1,8,10,533,9,1,8,Bettys Bay,Bettys Bay,P24-116612461,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116612461
+4250000.0,3,2,7,6.0,0.0,0,1,0,1,1,8,10,970,25,1,4,Bettys Bay,Bettys Bay,P24-116601916,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116601916
+4250000.0,4,3,9,4.0,0.0,0,1,1,0,1,9,10,1675,24,1,4,Fisherhaven,Hermanus,P24-109319578,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/109319578
+4250000.0,6,3,13,10.0,0.0,1,1,0,1,1,7,10,1776,34,1,4,Agulhas,Agulhas,P24-116746573,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116746573
+4290000.0,3,2,7,6.0,0.0,0,1,0,1,1,8,10,1065,26,1,4,Bettys Bay,Bettys Bay,P24-116752117,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116752117
+4295000.0,3,2,7,6.0,0.0,0,1,0,1,1,9,10,854,55,1,4,Sandbaai,Hermanus,P24-116676410,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116676410
+4295000.0,3,2,7,6.0,0.0,0,1,1,1,1,9,10,694,47,1,4,Sandbaai,Hermanus,P24-116725393,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116725393
+4300000.0,4,3,9,6.0,0.0,1,1,0,1,0,7,10,1455,71,1,4,Swellendam,Swellendam,P24-116793634,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116793634
+4300000.0,3,2,7,8.0,0.0,1,1,1,1,1,9,10,1018,28,1,4,Fisherhaven,Hermanus,P24-116810542,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/116810542
+4300000.0,3,3,7,4.0,0.0,1,1,0,1,1,8,10,1935,37,1,4,Bettys Bay,Bettys Bay,P24-116686361,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116686361
+4300000.0,3,2,7,2.0,0.0,0,1,0,1,1,8,10,1050,30,1,4,Heuningkloof,Kleinmond,P24-104932365,https://www.property24.com/for-sale/heuningkloof/kleinmond/western-cape/7839/104932365
+4350000.0,3,3,7,7.0,969.0,0,1,0,1,0,7,10,1490,27,1,4,Swellendam,Swellendam,P24-116712587,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116712587
+4390000.0,4,3,9,6.0,162.0,0,1,1,1,1,7,10,1256,29,1,4,Baardskeerdersbos,Baardskeerdersbos,P24-115345344,https://www.property24.com/for-sale/baardskeerdersbos/baardskeerdersbos/western-cape/7878/115345344
+4395000.0,3,2,7,4.0,0.0,0,1,1,1,1,9,10,944,19,1,4,Onrus,Hermanus,P24-107388277,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/107388277
+4399000.0,3,3,7,6.0,0.0,1,0,0,1,1,7,10,1198,61,1,4,Agulhas,Agulhas,P24-113057792,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/113057792
+4400000.0,3,2,7,8.0,0.0,0,1,0,1,0,7,10,1259,30,1,4,Swellendam,Swellendam,P24-116555990,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116555990
+4450000.0,2,2,5,4.0,0.0,0,1,0,1,1,9,10,1646,20,1,4,Chanteclair,Hermanus,P24-116484081,https://www.property24.com/for-sale/chanteclair/hermanus/western-cape/7855/116484081
+4450000.0,3,3,7,6.0,0.0,1,0,0,1,1,9,10,975,42,1,4,Onrus,Hermanus,P24-116627769,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116627769
+4450000.0,5,3,11,3.0,0.0,1,1,0,1,1,8,10,923,33,1,4,Stanford,Stanford,P24-116698072,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116698072
+4450000.0,5,3,11,4.0,0.0,1,1,0,1,1,9,10,2402,20,1,4,Vermont,Hermanus,P24-116657165,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116657165
+4450000.0,3,2,7,4.0,0.0,0,1,0,1,1,9,10,970,63,1,4,Vermont,Hermanus,P24-112606065,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/112606065
+4450000.0,3,3,7,6.0,0.0,0,1,0,1,1,9,10,1006,15,1,4,Vermont,Hermanus,P24-116829346,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116829346
+4450000.0,3,2,7,6.0,0.0,1,1,0,1,1,9,10,1240,25,1,4,Onrus,Hermanus,P24-116837398,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116837398
+4450000.0,3,2,7,4.0,0.0,0,1,1,1,1,9,10,717,36,1,4,Onrus,Hermanus,P24-115496140,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/115496140
+4450000.0,6,5,13,4.0,0.0,0,0,0,1,1,9,10,1483,18,1,4,Sandbaai,Hermanus,P24-113937264,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/113937264
+4460000.0,4,3,9,4.0,0.0,0,1,0,1,1,7,10,1375,36,1,4,Kleinbaai,Gansbaai,P24-116779495,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116779495
+4490000.0,4,3,9,6.0,0.0,0,1,0,1,1,9,10,1141,38,1,4,Onrus,Hermanus,P24-116622731,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116622731
+4490000.0,3,2,7,6.0,0.0,1,1,1,1,1,9,10,1937,36,1,4,Vermont,Hermanus,P24-116350166,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116350166
+4495000.0,3,3,7,4.0,0.0,0,1,0,1,1,7,10,2593,36,1,4,Agulhas,Agulhas,P24-116799367,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116799367
+4495000.0,5,4,11,4.0,0.0,0,1,0,1,1,9,10,622,26,1,4,Sandbaai,Hermanus,P24-106685555,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/106685555
+4495000.0,5,4,11,6.0,0.0,0,1,0,1,1,9,10,2769,65,1,4,Sandbaai,Hermanus,P24-116620494,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116620494
+4495000.0,3,4,7,6.0,0.0,0,1,0,1,1,7,10,2423,34,1,4,Agulhas,Agulhas,P24-116794645,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116794645
+4495000.0,4,3,9,4.0,0.0,0,1,1,0,1,9,10,1735,59,1,4,Sandbaai,Hermanus,P24-116756213,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116756213
+4495000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,1499,46,1,11,Bredasdorp,Bredasdorp,P24-116811804,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116811804
+4495000.0,4,3,9,4.0,0.0,0,1,0,0,1,8,10,1232,72,1,4,Kleinmond Central,Kleinmond,P24-116760313,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116760313
+4500000.0,5,5,11,2.0,300.0,0,1,1,0,0,7,10,2429,43,1,4,Villiersdorp,Villiersdorp,P24-116752106,https://www.property24.com/for-sale/villiersdorp/villiersdorp/western-cape/10613/116752106
+4500000.0,5,4,11,10.0,0.0,0,1,0,1,0,7,10,1158,24,1,4,Bredasdorp,Bredasdorp,P24-116740952,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/116740952
+4500000.0,3,3,7,4.0,0.0,0,1,0,1,1,9,10,1161,31,1,4,Vermont,Hermanus,P24-116731305,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116731305
+4500000.0,4,3,9,4.0,0.0,0,1,1,1,1,8,10,893,24,1,4,Kleinmond Central,Kleinmond,P24-105896426,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/105896426
+4500000.0,2,2,5,4.0,0.0,0,1,1,1,1,8,10,1384,21,1,4,Stanford,Stanford,P24-116813623,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116813623
+4500000.0,4,3,9,0.0,0.0,0,0,0,1,1,7,10,954,33,1,4,Franskraal,Gansbaai,P24-116513682,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116513682
+4500000.0,1,1,3,0.0,0.0,1,0,0,0,1,9,10,1281,15,1,8,Vermont,Hermanus,P24-106907182,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/106907182
+4500000.0,3,2,7,5.0,0.0,1,1,0,1,1,9,10,1908,38,1,4,Onrus,Hermanus,P24-116128890,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116128890
+4500000.0,3,2,7,5.0,0.0,1,1,0,1,1,9,10,1243,37,1,4,Onrus,Hermanus,P24-116828564,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116828564
+4500000.0,5,5,11,4.0,700.0,1,0,0,0,0,7,10,1183,27,1,4,Villiersdorp,Villiersdorp,P24-116731151,https://www.property24.com/for-sale/villiersdorp/villiersdorp/western-cape/10613/116731151
+4500000.0,3,2,7,3.0,0.0,1,1,0,1,1,9,10,955,45,1,4,Northcliff,Hermanus,P24-116761220,https://www.property24.com/for-sale/northcliff/hermanus/western-cape/7852/116761220
+4500000.0,1,1,3,0.0,0.0,1,0,0,0,1,7,10,814,13,1,8,De Kelders,Gansbaai,P24-116759546,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116759546
+4500000.0,4,3,9,4.0,0.0,0,1,1,1,1,8,10,2024,32,1,4,Kleinmond Central,Kleinmond,P24-116680031,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116680031
+4500000.0,3,2,7,5.0,0.0,1,1,0,1,1,9,10,1619,44,1,4,Onrus,Hermanus,P24-116763985,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116763985
+4500000.0,4,3,9,6.0,0.0,0,0,0,1,0,7,10,1538,29,1,4,Agulhas,Agulhas,P24-114713686,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/114713686
+4550000.0,1,3,3,14.0,0.0,0,1,0,1,0,7,10,3973,60,1,4,Napier,Napier,P24-116361615,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116361615
+4550000.0,5,3,11,6.0,0.0,1,1,0,0,1,7,10,1567,6,1,4,Franskraal,Gansbaai,P24-116757537,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116757537
+4650000.0,3,3,7,6.0,0.0,1,1,1,1,0,7,10,1537,45,1,4,Theewaterskloof Country Estate,Villiersdorp,P24-116719878,https://www.property24.com/for-sale/theewaterskloof-country-estate/villiersdorp/western-cape/33399/116719878
+4700000.0,3,2,7,4.0,0.0,0,1,1,1,1,9,10,1264,22,1,4,Vermont,Hermanus,P24-112999007,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/112999007
+4725000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,1427,5,1,8,Bot River,Bot River,P24-111404069,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/111404069
+4725000.0,1,1,3,0.0,0.0,0,1,0,0,0,7,10,1543,14,1,8,Bot River,Bot River,P24-116608502,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/116608502
+4750000.0,3,2,7,7.0,0.0,0,1,1,1,1,9,10,763,26,1,4,Sandbaai,Hermanus,P24-116758982,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116758982
+4750000.0,4,4,9,3.0,500.0,1,0,0,1,1,7,10,2211,61,1,4,Perlemoenbaai,Gansbaai,P24-116590073,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116590073
+4750000.0,4,3,9,8.0,0.0,0,1,0,1,1,8,10,820,49,1,4,Kleinmond Central,Kleinmond,P24-116629547,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116629547
+4750000.0,4,3,9,10.0,0.0,0,1,0,1,1,8,10,876,30,1,4,Kleinmond Central,Kleinmond,P24-116017305,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116017305
+4750000.0,6,3,13,4.0,0.0,0,0,0,0,1,7,10,889,28,1,4,Pringle Bay,Pringle Bay,P24-116683544,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116683544
+4750000.0,4,4,9,8.0,0.0,0,1,0,1,1,7,10,1273,42,1,4,Struisbaai,Struisbaai,P24-116754238,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116754238
+4750000.0,3,3,7,6.0,0.0,0,1,0,1,1,9,10,1503,46,1,4,Onrus,Hermanus,P24-116805603,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116805603
+4800000.0,3,3,7,8.0,0.0,0,1,1,1,0,7,10,1680,33,1,4,Swellendam,Swellendam,P24-116646363,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116646363
+4800000.0,5,3,11,6.0,0.0,0,1,1,0,0,7,10,1491,63,1,4,Swellendam,Swellendam,P24-116788666,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116788666
+4800000.0,5,3,11,2.0,0.0,0,1,0,1,0,7,10,1361,35,1,4,Swellendam,Swellendam,P24-114788776,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/114788776
+4800000.0,5,3,11,2.0,0.0,0,1,0,1,0,7,10,1313,27,1,4,Swellendam,Swellendam,P24-114803081,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/114803081
+4800000.0,5,3,11,10.0,428.0,0,1,1,1,1,7,10,2604,38,1,4,Franskraal,Gansbaai,P24-116834501,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116834501
+4800000.0,2,2,5,4.0,858.0,0,1,1,1,0,7,10,3016,29,0,4,Greyton,Caledon,P24-116814087,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116814087
+4800000.0,3,2,7,6.0,0.0,0,1,1,0,1,7,10,1084,36,1,4,Rooi Els,Rooi Els,P24-116656572,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116656572
+4800000.0,3,2,7,2.0,0.0,0,1,0,1,1,9,10,959,29,1,4,Vermont,Hermanus,P24-116568376,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116568376
+4815000.0,1,1,3,0.0,0.0,1,0,1,0,1,7,10,2463,15,1,8,Romansbaai Estate,Gansbaai,P24-116729887,https://www.property24.com/for-sale/romansbaai-estate/gansbaai/western-cape/16042/116729887
+4850000.0,4,3,9,4.0,0.0,1,1,0,1,1,7,10,1477,37,1,4,Oceanview Heights,Struisbaai,P24-116597445,https://www.property24.com/for-sale/oceanview-heights/struisbaai/western-cape/7889/116597445
+4850000.0,4,3,9,4.0,0.0,1,1,0,1,1,7,10,1429,29,1,4,Struisbaai,Struisbaai,P24-116593509,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116593509
+4850000.0,4,4,9,4.0,0.0,0,1,0,1,1,7,10,1634,27,1,4,Struisbaai,Struisbaai,P24-116736691,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116736691
+4850000.0,4,4,9,2.0,0.0,0,1,0,1,1,7,10,1990,34,1,4,Pringle Bay,Pringle Bay,P24-116834476,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116834476
+4895000.0,3,2,7,8.0,0.0,1,1,1,1,1,9,10,2630,28,1,4,Fisherhaven,Hermanus,P24-113412036,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/113412036
+4900000.0,2,2,5,3.0,0.0,0,0,0,1,1,9,10,852,12,0,5,Hermanus Central,Hermanus,P24-116779270,https://www.property24.com/for-sale/hermanus-central/hermanus/western-cape/17525/116779270
+4950000.0,7,4,15,5.0,0.0,1,1,0,1,0,7,10,1451,24,1,4,Swellendam,Swellendam,P24-116697217,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116697217
+4950000.0,5,3,11,4.0,0.0,0,1,0,1,1,7,10,1273,24,1,4,Pringle Bay,Pringle Bay,P24-116501789,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116501789
+4980000.0,5,4,11,8.0,0.0,0,1,1,1,1,7,10,2194,28,1,4,Kleinbaai,Gansbaai,P24-116587518,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116587518
+4990000.0,4,4,9,4.0,0.0,0,0,1,1,0,7,10,1580,35,1,4,Swellendam,Swellendam,P24-116374097,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116374097
+4990000.0,4,2,9,4.0,0.0,0,1,0,1,1,8,10,1113,36,1,4,Kleinmond Central,Kleinmond,P24-116675710,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116675710
+4990000.0,9,7,19,8.0,0.0,0,1,1,1,1,7,10,1535,40,1,4,Pringle Bay,Pringle Bay,P24-116761962,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116761962
+4995000.0,3,3,7,6.0,0.0,1,1,1,1,1,9,10,1093,21,1,4,Vermont,Hermanus,P24-116629246,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116629246
+4995000.0,3,3,7,8.0,0.0,0,0,0,1,1,7,10,600,27,1,4,Kleinbaai,Gansbaai,P24-116824367,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116824367
+4995000.0,3,3,7,6.0,0.0,0,1,0,1,1,7,10,2539,51,1,4,Kleinbaai,Gansbaai,P24-116828760,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116828760
+4995000.0,3,2,7,4.0,0.0,0,1,0,1,1,9,10,684,20,1,4,Vermont,Hermanus,P24-116810986,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116810986
+4995000.0,3,3,7,6.0,260.0,0,1,0,1,1,7,10,2755,41,1,4,Kleinbaai,Gansbaai,P24-116838241,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116838241
+4995000.0,3,3,7,6.0,0.0,0,1,0,1,1,7,10,1736,50,1,4,Kleinbaai,Gansbaai,P24-116824949,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116824949
+4995000.0,3,2,7,4.0,0.0,0,1,1,1,1,7,10,2151,17,1,4,Pringle Bay,Pringle Bay,P24-116598821,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116598821
+4995000.0,3,3,7,4.0,0.0,0,1,1,1,1,7,10,845,28,1,4,Kleinbaai,Gansbaai,P24-116830655,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116830655
+4995000.0,3,3,7,8.0,0.0,0,1,0,1,1,7,10,2403,99,1,4,Kleinbaai,Gansbaai,P24-116826168,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116826168
+4995000.0,3,2,7,5.0,0.0,1,1,0,1,1,9,10,1689,29,1,4,Hemel en Aarde Estate,Hermanus,P24-116771672,https://www.property24.com/for-sale/hemel-en-aarde-estate/hermanus/western-cape/14360/116771672
+4995000.0,3,4,7,4.0,0.0,0,1,0,0,1,7,10,1974,37,1,4,Kleinbaai,Gansbaai,P24-116838464,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116838464
+4995000.0,3,3,7,4.0,1518.0,0,1,0,1,1,8,10,913,27,1,4,Stanford,Stanford,P24-116684745,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116684745
+4995000.0,3,3,7,4.0,0.0,0,1,0,0,1,7,10,1813,53,1,4,Kleinbaai,Gansbaai,P24-116824087,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116824087
+4995000.0,3,2,7,6.0,0.0,1,1,0,0,1,9,10,1496,44,1,4,Hemel en Aarde Estate,Hermanus,P24-116798459,https://www.property24.com/for-sale/hemel-en-aarde-estate/hermanus/western-cape/14360/116798459
+5000000.0,3,2,7,30.0,90.0,0,0,0,0,1,7,10,1400,13,1,10,Tesselaarsdal,Caledon,P24-116573377,https://www.property24.com/for-sale/tesselaarsdal/caledon/western-cape/7872/116573377
+5195000.0,3,2,7,6.0,0.0,0,1,1,1,1,9,10,1288,8,1,4,De Zandt Lifestyle Estate,Hermanus,P24-116755390,https://www.property24.com/for-sale/de-zandt-lifestyle-estate/hermanus/western-cape/33207/116755390
+5195000.0,4,4,9,7.0,0.0,0,1,0,0,1,8,10,704,26,1,4,Bettys Bay,Bettys Bay,P24-116738848,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116738848
+5195000.0,4,4,9,8.0,0.0,0,1,0,1,1,8,10,3079,38,1,4,Bettys Bay,Bettys Bay,P24-116839966,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116839966
+5200000.0,4,3,9,6.0,0.0,1,1,0,1,1,7,10,1211,33,1,4,Struisbaai,Struisbaai,P24-116466612,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116466612
+5200000.0,3,2,7,1.0,0.0,0,1,0,0,1,9,10,1119,38,1,4,Voelklip,Hermanus,P24-116265918,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116265918
+5200000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,294,8,1,8,Sandbaai,Hermanus,P24-116211402,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116211402
+5200000.0,2,2,5,4.0,763.0,0,1,0,1,1,9,10,1881,15,1,4,Northcliff,Hermanus,P24-116379599,https://www.property24.com/for-sale/northcliff/hermanus/western-cape/7852/116379599
+5200000.0,3,3,7,3.0,1121.0,0,1,0,0,1,9,10,2039,50,1,4,Westcliff,Hermanus,P24-116771704,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116771704
+5200000.0,4,3,9,3.0,0.0,1,1,0,1,0,7,10,871,22,1,4,Greyton,Caledon,P24-116721065,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116721065
+5200000.0,4,3,9,6.0,0.0,0,1,0,1,1,8,10,1430,41,1,4,Kleinmond Central,Kleinmond,P24-116706105,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116706105
+5200000.0,4,3,9,6.0,0.0,0,0,1,1,1,7,10,1997,30,1,4,Perlemoenbaai,Gansbaai,P24-116550746,https://www.property24.com/for-sale/perlemoenbaai/gansbaai/western-cape/7866/116550746
+5200000.0,4,3,9,4.0,0.0,1,1,0,0,1,8,10,2727,29,1,4,Bettys Bay,Bettys Bay,P24-116577698,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116577698
+5200000.0,2,2,5,3.0,70.0,1,1,0,1,1,8,10,1337,19,1,4,Stanford,Stanford,P24-116699204,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116699204
+5250000.0,3,4,7,4.0,0.0,0,1,1,1,1,7,10,2073,23,1,4,Struisbaai,Struisbaai,P24-116755936,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116755936
+5250000.0,2,2,5,4.0,0.0,0,1,0,1,0,7,10,2158,41,1,4,Napier,Napier,P24-116405092,https://www.property24.com/for-sale/napier/napier/western-cape/7877/116405092
+5250000.0,4,2,9,4.0,0.0,0,1,0,1,1,7,10,2382,33,1,4,Pringle Bay,Pringle Bay,P24-116530266,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116530266
+5290000.0,4,4,9,4.0,0.0,0,0,0,1,1,7,10,1088,27,1,4,Kleinbaai,Gansbaai,P24-115493429,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/115493429
+5299999.0,4,3,9,4.0,0.0,0,1,0,0,1,8,10,1789,11,1,4,Kleinmond Central,Kleinmond,P24-116542350,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116542350
+5300000.0,3,2,7,4.0,0.0,0,1,0,1,1,7,10,1762,29,1,4,Pringle Bay,Pringle Bay,P24-115948454,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/115948454
+5300000.0,3,2,7,6.0,0.0,1,1,0,1,1,9,10,1060,21,1,4,Hemel en Aarde Estate,Hermanus,P24-116822167,https://www.property24.com/for-sale/hemel-en-aarde-estate/hermanus/western-cape/14360/116822167
+5300000.0,4,3,9,4.0,0.0,0,1,0,1,1,7,10,1518,26,1,4,Pringle Bay,Pringle Bay,P24-116576418,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116576418
+5300000.0,3,2,7,6.0,0.0,0,1,1,1,1,9,10,1297,38,1,4,Chanteclair,Hermanus,P24-116829767,https://www.property24.com/for-sale/chanteclair/hermanus/western-cape/7855/116829767
+5300000.0,6,6,13,6.0,0.0,0,1,0,1,1,7,10,1741,42,1,4,De Kelders,Gansbaai,P24-113924905,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/113924905
+5350000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,678,12,1,8,Gansbaai Central,Gansbaai,P24-116496742,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116496742
+5350000.0,4,3,9,8.0,0.0,0,1,1,1,1,8,10,947,43,1,4,Stanford,Stanford,P24-115460900,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/115460900
+5350000.0,5,4,11,4.0,0.0,0,1,0,1,1,7,10,1587,40,1,4,Struisbaai,Struisbaai,P24-116469565,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116469565
+5350000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,754,14,1,11,Gansbaai Central,Gansbaai,P24-116360468,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116360468
+5350000.0,1,1,3,0.0,1422.0,0,0,0,0,1,7,10,1784,8,1,8,Struisbaai,Struisbaai,P24-116753999,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/116753999
+5395000.0,4,6,9,8.0,0.0,1,1,0,1,1,9,10,1452,20,1,4,Westcliff,Hermanus,P24-115920438,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/115920438
+5400000.0,3,3,7,4.0,0.0,0,0,0,1,0,7,10,1056,15,1,4,Greyton,Caledon,P24-116778778,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116778778
+5400000.0,1,1,3,0.0,0.0,0,1,0,0,1,7,10,1037,43,1,4,Suiderstrand,Suiderstrand,P24-115884335,https://www.property24.com/for-sale/suiderstrand/suiderstrand/western-cape/7822/115884335
+5400000.0,3,3,7,4.0,0.0,0,1,1,1,1,7,10,3310,90,1,4,Suiderstrand,Suiderstrand,P24-116746251,https://www.property24.com/for-sale/suiderstrand/suiderstrand/western-cape/7822/116746251
+5400000.0,4,3,9,8.0,0.0,1,1,1,1,1,7,10,1494,35,1,4,De Kelders,Gansbaai,P24-116804181,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116804181
+5400000.0,3,2,7,2.0,0.0,1,1,1,1,1,8,10,905,46,1,4,Stanford,Stanford,P24-116722695,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116722695
+5400000.0,3,2,7,6.0,0.0,1,0,1,1,1,9,10,1130,44,1,4,Onrus,Hermanus,P24-116327235,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116327235
+5400000.0,3,2,7,7.0,0.0,1,1,0,1,1,9,10,1967,55,1,4,Vermont,Hermanus,P24-116482765,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116482765
+5450000.0,3,5,7,6.0,0.0,0,1,1,1,1,9,10,1202,21,1,4,Flamingo Bay,Hermanus,P24-116686322,https://www.property24.com/for-sale/flamingo-bay/hermanus/western-cape/15625/116686322
+5450000.0,3,3,7,4.0,0.0,0,1,0,0,1,9,10,2184,27,1,4,Vermont,Hermanus,P24-116569076,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116569076
+5450000.0,3,1,7,10.0,0.0,0,0,1,0,0,7,10,2039,22,1,10,Bot River,Bot River,P24-116757653,https://www.property24.com/for-sale/bot-river/bot-river/western-cape/10872/116757653
+5450000.0,4,5,9,10.0,0.0,1,1,1,1,1,9,10,1454,43,1,4,Sandbaai,Hermanus,P24-116738359,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116738359
+5490000.0,5,4,11,6.0,0.0,1,1,0,1,0,7,10,513,21,1,4,Greyton,Caledon,P24-116724883,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116724883
+5495000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,995,17,1,8,Vermont,Hermanus,P24-116724557,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116724557
+5495000.0,6,3,13,4.0,0.0,1,1,0,1,1,7,10,1455,30,1,4,Pringle Bay,Pringle Bay,P24-116640847,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116640847
+5495000.0,5,3,11,6.0,0.0,1,1,0,1,1,9,10,2335,89,1,4,Vermont,Hermanus,P24-113924770,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/113924770
+5495000.0,4,4,9,6.0,0.0,0,1,0,1,1,7,10,776,20,1,4,Agulhas,Agulhas,P24-116745670,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116745670
+5499000.0,5,4,11,8.0,1021.0,0,1,1,1,1,9,10,2845,36,1,4,Fisherhaven,Hermanus,P24-110787935,https://www.property24.com/for-sale/fisherhaven/hermanus/western-cape/10544/110787935
+5500000.0,3,2,7,6.0,0.0,0,1,0,1,1,9,10,716,51,1,4,Onrus,Hermanus,P24-116756066,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116756066
+5500000.0,3,2,7,4.0,0.0,0,1,0,1,1,8,10,749,32,1,4,Kleinmond Central,Kleinmond,P24-116714313,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116714313
+5500000.0,5,4,11,4.0,0.0,0,1,0,1,1,7,10,1452,36,1,4,Agulhas,Agulhas,P24-116705571,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116705571
+5500000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,582,8,1,10,Infanta,Swellendam,P24-115227207,https://www.property24.com/for-sale/infanta/swellendam/western-cape/7881/115227207
+5500000.0,3,2,7,8.0,0.0,0,1,0,1,1,8,10,1440,30,1,4,Bettys Bay,Bettys Bay,P24-116649342,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116649342
+5500000.0,4,5,9,6.0,442.0,0,1,1,1,1,8,10,1952,53,1,4,Kleinmond Central,Kleinmond,P24-116598645,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116598645
+5500000.0,2,1,5,0.0,0.0,0,1,0,0,0,7,10,1732,14,1,10,Swellendam Rural,Swellendam,P24-116314027,https://www.property24.com/for-sale/swellendam-rural/swellendam/western-cape/16564/116314027
+5500000.0,7,4,15,3.0,0.0,0,1,1,0,1,8,10,2365,31,1,4,Kleinmond Central,Kleinmond,P24-115857671,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/115857671
+5500000.0,1,2,3,3.0,0.0,0,0,0,1,1,7,10,366,13,1,5,Gansbaai Central,Gansbaai,P24-116662379,https://www.property24.com/for-sale/gansbaai-central/gansbaai/western-cape/16693/116662379
+5500000.0,3,2,7,6.0,0.0,0,1,0,1,1,9,10,908,33,1,4,Voelklip,Hermanus,P24-116315758,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116315758
+5500000.0,5,5,11,7.0,0.0,0,1,1,1,0,7,10,795,35,1,4,Greyton,Caledon,P24-116331210,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116331210
+5500000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,794,20,1,10,Malgas,Swellendam,P24-115311176,https://www.property24.com/for-sale/malgas/swellendam/western-cape/10415/115311176
+5500000.0,1,1,3,0.0,0.0,1,0,0,0,1,7,10,1961,12,1,8,Birkenhead,Gansbaai,P24-116520396,https://www.property24.com/for-sale/birkenhead/gansbaai/western-cape/12519/116520396
+5625000.0,5,5,11,4.0,0.0,1,1,0,1,1,8,10,1681,27,1,4,Bettys Bay,Bettys Bay,P24-112536452,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/112536452
+5650000.0,4,3,9,6.0,0.0,1,1,0,1,1,9,10,863,22,1,4,Vermont,Hermanus,P24-116706171,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116706171
+5650000.0,4,3,9,4.0,0.0,1,1,0,1,1,9,10,1411,31,1,4,Vermont,Hermanus,P24-116836527,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116836527
+5650000.0,4,4,9,2.0,0.0,0,1,0,0,1,7,10,602,53,1,4,Rooi Els,Rooi Els,P24-116700966,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116700966
+5700000.0,4,3,9,4.0,977.0,0,1,0,1,1,8,10,1848,13,1,4,Kleinmond Central,Kleinmond,P24-116536158,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116536158
+5700000.0,2,3,5,1.0,0.0,0,0,0,0,0,7,10,1814,36,1,11,Villiersdorp,Villiersdorp,P24-116367289,https://www.property24.com/for-sale/villiersdorp/villiersdorp/western-cape/10613/116367289
+5700000.0,5,4,11,6.0,0.0,1,1,0,1,1,7,10,1547,53,1,4,De Kelders,Gansbaai,P24-116548919,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116548919
+5700000.0,3,2,7,5.0,0.0,1,1,0,1,1,9,10,1129,16,1,4,Vermont,Hermanus,P24-116092101,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116092101
+5700000.0,4,3,9,10.0,0.0,0,1,0,1,1,8,10,1041,43,1,4,Stanford,Stanford,P24-116714681,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116714681
+5700000.0,3,3,7,6.0,0.0,0,1,0,1,1,9,10,1038,33,1,4,Flamingo Bay,Hermanus,P24-116653225,https://www.property24.com/for-sale/flamingo-bay/hermanus/western-cape/15625/116653225
+5770000.0,4,3,9,4.0,50.0,0,1,1,1,1,7,10,910,29,1,4,Franskraal,Gansbaai,P24-116072626,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116072626
+5800000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,574,28,1,11,Franskraal,Gansbaai,P24-116332624,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116332624
+5850000.0,3,4,7,5.0,0.0,1,1,0,1,1,7,10,2097,56,1,4,De Kelders,Gansbaai,P24-116161838,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116161838
+5850000.0,3,3,7,4.0,0.0,0,1,0,1,1,9,10,2631,60,1,4,Westcliff,Hermanus,P24-116615794,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116615794
+5850000.0,4,4,9,6.0,0.0,1,1,0,1,1,7,10,1805,50,1,4,De Kelders,Gansbaai,P24-116699100,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116699100
+5850000.0,4,3,9,14.0,0.0,0,1,1,1,0,7,10,2178,83,1,4,Swellendam,Swellendam,P24-116591223,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116591223
+5850000.0,5,5,11,5.0,0.0,1,1,0,1,1,7,10,2112,39,1,4,Pringle Bay,Pringle Bay,P24-116716363,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116716363
+5850000.0,3,2,7,9.0,0.0,1,1,0,1,1,9,10,1390,26,1,4,Vermont,Hermanus,P24-116551476,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116551476
+5850000.0,6,4,13,4.0,0.0,1,1,0,1,1,8,10,1516,71,1,4,Bettys Bay,Bettys Bay,P24-115741972,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/115741972
+5900000.0,3,3,7,4.0,0.0,1,1,0,1,1,8,10,1344,24,1,4,Stanford,Stanford,P24-116523595,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116523595
+5900000.0,3,3,7,6.0,0.0,1,1,1,1,1,8,10,1632,20,1,4,Stanford,Stanford,P24-116514701,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116514701
+5900000.0,5,3,11,8.0,0.0,1,0,1,1,0,7,10,2199,33,1,4,Greyton,Caledon,P24-116560968,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116560968
+5900000.0,4,3,9,6.0,0.0,1,1,0,1,0,7,10,1496,60,1,4,Swellendam,Swellendam,P24-116253090,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116253090
+5950000.0,4,2,9,8.0,0.0,1,1,0,1,1,9,10,649,29,1,4,Northcliff,Hermanus,P24-116777012,https://www.property24.com/for-sale/northcliff/hermanus/western-cape/7852/116777012
+5950000.0,3,2,7,0.0,0.0,0,0,0,0,1,7,10,825,21,1,4,Kleinbaai,Gansbaai,P24-116527960,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116527960
+5950000.0,4,4,9,11.0,0.0,0,1,1,1,1,7,10,1827,48,1,4,Sunny Seas Estate,Bettys Bay,P24-116603761,https://www.property24.com/for-sale/sunny-seas-estate/bettys-bay/western-cape/16332/116603761
+5950000.0,4,4,9,6.0,0.0,0,1,0,1,1,7,10,2230,30,1,4,Agulhas,Agulhas,P24-116754757,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116754757
+5950000.0,3,4,7,4.0,0.0,1,1,0,1,1,8,10,1718,32,1,4,Bettys Bay,Bettys Bay,P24-116787538,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116787538
+5950000.0,4,3,9,11.0,0.0,0,0,1,0,1,9,10,884,40,1,4,Voelklip,Hermanus,P24-116761219,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116761219
+5950000.0,5,4,11,10.0,0.0,1,1,1,1,0,7,10,1640,44,1,4,Swellendam,Swellendam,P24-116603599,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116603599
+5950000.0,3,3,7,4.0,0.0,0,1,0,1,1,9,10,758,41,1,4,Northcliff,Hermanus,P24-116617406,https://www.property24.com/for-sale/northcliff/hermanus/western-cape/7852/116617406
+5980000.0,3,3,7,6.0,0.0,0,1,0,1,1,8,10,1095,36,1,4,Kleinmond Central,Kleinmond,P24-116680577,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116680577
+5995000.0,4,3,9,6.0,0.0,0,1,0,1,1,9,10,1049,39,1,4,Onrus,Hermanus,P24-116677196,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116677196
+5995000.0,4,4,9,8.0,0.0,0,1,1,1,1,8,10,1134,29,1,4,Kleinmond Central,Kleinmond,P24-112115600,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/112115600
+5995000.0,3,3,7,6.0,0.0,0,1,0,1,1,8,10,1852,25,1,4,Arabella,Kleinmond,P24-115976414,https://www.property24.com/for-sale/arabella/kleinmond/western-cape/11748/115976414
+5995000.0,4,4,9,6.0,0.0,1,1,0,1,1,9,10,1429,12,1,4,Vermont,Hermanus,P24-116510229,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116510229
+5995000.0,5,4,11,9.0,0.0,0,0,1,1,1,7,10,3194,44,1,4,Rooi Els,Rooi Els,P24-115800693,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/115800693
+5995000.0,4,3,9,4.0,0.0,0,1,0,1,1,7,10,1330,24,1,4,Struisbaai,Struisbaai,P24-115101780,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/115101780
+5995000.0,3,3,7,6.0,0.0,0,1,0,1,1,9,10,1037,37,1,4,Vermont,Hermanus,P24-116810011,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116810011
+5999000.0,1,1,3,0.0,0.0,0,0,1,0,1,9,10,1008,20,1,8,Chanteclair,Hermanus,P24-116380003,https://www.property24.com/for-sale/chanteclair/hermanus/western-cape/7855/116380003
+6100000.0,3,3,7,6.0,0.0,0,1,0,1,1,9,10,1280,25,1,4,Westcliff,Hermanus,P24-113042776,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/113042776
+6195000.0,11,11,23,0.0,0.0,1,1,1,1,1,8,10,3694,12,1,4,Bettys Bay,Bettys Bay,P24-114776591,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/114776591
+6200000.0,5,7,11,6.0,0.0,1,1,1,1,1,9,10,2698,51,1,4,Vermont,Hermanus,P24-115883548,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/115883548
+6200000.0,4,3,9,6.0,0.0,0,1,1,1,1,7,10,1663,42,1,4,Pringle Bay,Pringle Bay,P24-116488729,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116488729
+6250000.0,3,2,7,3.0,0.0,0,1,1,1,1,9,10,708,21,1,4,Vermont,Hermanus,P24-115884813,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/115884813
+6300000.0,1,1,3,0.0,0.0,0,0,0,0,1,8,10,755,6,1,10,Stanford Rural,Stanford,P24-116552902,https://www.property24.com/for-sale/stanford-rural/stanford/western-cape/16568/116552902
+6300000.0,3,2,7,6.0,0.0,0,0,0,1,1,9,10,912,18,1,4,Flamingo Bay,Hermanus,P24-116739596,https://www.property24.com/for-sale/flamingo-bay/hermanus/western-cape/15625/116739596
+6350000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,545,41,1,8,Benguela Cove Lagoon Wine Estate,Hermanus,P24-116326262,https://www.property24.com/for-sale/benguela-cove-lagoon-wine-estate/hermanus/western-cape/10455/116326262
+6385000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,788,12,1,10,Franskraal,Gansbaai,P24-106780385,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/106780385
+6395000.0,3,3,7,6.0,400.0,0,1,1,1,1,7,10,2167,32,1,4,Maremmana Estate,Bot River,P24-116309976,https://www.property24.com/for-sale/maremmana-estate/bot-river/western-cape/17527/116309976
+6395000.0,5,5,11,2.0,0.0,0,1,0,1,0,7,10,1234,73,1,4,Arniston,Arniston,P24-115419962,https://www.property24.com/for-sale/arniston/arniston/western-cape/7883/115419962
+6400000.0,3,1,7,0.0,0.0,0,1,1,0,1,9,10,2333,38,1,4,Onrus,Hermanus,P24-116739562,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116739562
+6400000.0,4,2,9,7.0,0.0,0,1,1,1,1,9,10,1930,62,0,4,Westcliff,Hermanus,P24-115345123,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/115345123
+6400000.0,4,3,9,4.0,0.0,1,1,0,1,1,9,10,923,31,1,4,Westcliff,Hermanus,P24-116785630,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116785630
+6400000.0,3,3,7,3.0,0.0,0,1,0,0,1,9,10,1707,65,1,4,Westcliff,Hermanus,P24-116759769,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116759769
+6450000.0,3,3,7,2.0,1614.0,0,1,0,1,1,9,10,949,30,1,4,Northcliff,Hermanus,P24-116578089,https://www.property24.com/for-sale/northcliff/hermanus/western-cape/7852/116578089
+6450000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,818,17,1,10,Pringle Bay Rural,Pringle Bay,P24-116065536,https://www.property24.com/for-sale/pringle-bay-rural/pringle-bay/western-cape/16573/116065536
+6450000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,567,5,1,8,Pringle Bay,Pringle Bay,P24-116094934,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116094934
+6490000.0,6,3,13,8.0,0.0,0,1,0,1,1,8,10,1984,30,1,4,Bettys Bay,Bettys Bay,P24-116542932,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116542932
+6495000.0,6,4,13,4.0,0.0,0,1,1,1,1,8,10,1475,39,1,4,Kleinmond Central,Kleinmond,P24-115742318,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/115742318
+6495000.0,3,2,7,6.0,0.0,0,0,0,1,1,9,10,2723,27,1,4,Hermanus Central,Hermanus,P24-116747087,https://www.property24.com/for-sale/hermanus-central/hermanus/western-cape/17525/116747087
+6495000.0,1,1,3,5.0,0.0,0,0,0,0,1,9,10,1048,15,1,11,Hermanus Central,Hermanus,P24-116191975,https://www.property24.com/for-sale/hermanus-central/hermanus/western-cape/17525/116191975
+6497500.0,3,2,7,9.0,0.0,0,0,0,1,1,9,10,1515,8,1,4,Berghof,Hermanus,P24-116165186,https://www.property24.com/for-sale/berghof/hermanus/western-cape/10450/116165186
+6499000.0,4,4,9,6.0,0.0,0,0,1,0,1,9,10,1051,31,1,4,Sandbaai,Hermanus,P24-116661339,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116661339
+6500000.0,4,3,9,5.0,0.0,1,1,1,1,1,9,10,2031,27,1,4,Vermont,Hermanus,P24-115582879,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/115582879
+6500000.0,1,1,3,0.0,0.0,1,1,0,0,0,7,10,2556,48,1,10,Swellendam,Swellendam,P24-115768773,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/115768773
+6500000.0,4,3,9,6.0,0.0,1,1,1,1,1,9,10,1348,22,1,4,Vermont,Hermanus,P24-116756194,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116756194
+6500000.0,2,1,5,1.0,0.0,1,1,0,0,0,7,10,3555,37,1,10,Swellendam Rural,Swellendam,P24-114343575,https://www.property24.com/for-sale/swellendam-rural/swellendam/western-cape/16564/114343575
+6500000.0,4,4,9,4.0,0.0,1,1,1,1,1,7,10,2558,41,1,4,Suiderstrand,Suiderstrand,P24-114787323,https://www.property24.com/for-sale/suiderstrand/suiderstrand/western-cape/7822/114787323
+6500000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,1508,22,1,10,Caledon Rural,Caledon,P24-116726880,https://www.property24.com/for-sale/caledon-rural/caledon/western-cape/16569/116726880
+6500000.0,6,6,13,6.0,0.0,1,1,1,0,0,7,10,1029,49,1,4,Swellendam,Swellendam,P24-116295858,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116295858
+6500000.0,6,4,13,4.0,0.0,0,1,0,1,1,7,10,1485,29,1,4,Pringle Bay,Pringle Bay,P24-115882582,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/115882582
+6500000.0,3,3,7,5.0,0.0,0,1,1,1,1,7,10,1243,55,1,4,Pringle Bay,Pringle Bay,P24-116451380,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116451380
+6500000.0,1,1,3,0.0,0.0,0,1,0,0,1,7,10,1316,18,1,8,Pringle Bay,Pringle Bay,P24-116088737,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116088737
+6500000.0,4,2,9,2.0,0.0,0,1,0,1,1,7,10,1697,29,1,4,Pringle Bay,Pringle Bay,P24-116766767,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116766767
+6500000.0,3,3,7,7.0,0.0,0,1,0,1,1,8,10,1153,39,1,4,Bettys Bay,Bettys Bay,P24-116752437,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116752437
+6500000.0,5,2,11,2.0,0.0,0,0,0,1,1,8,10,755,37,1,4,Kleinmond Central,Kleinmond,P24-116631897,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116631897
+6500000.0,4,3,9,4.0,0.0,0,1,0,1,1,9,10,1847,23,1,4,Onrus,Hermanus,P24-116649543,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116649543
+6500000.0,6,4,13,4.0,0.0,0,1,0,1,1,7,10,1386,41,1,4,Pringle Bay,Pringle Bay,P24-116528261,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116528261
+6500000.0,3,3,7,4.0,0.0,0,1,0,1,1,9,10,362,31,1,4,Voelklip,Hermanus,P24-116718467,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116718467
+6500000.0,3,3,7,8.0,0.0,1,1,1,1,0,7,10,1567,43,1,4,Swellendam,Swellendam,P24-116179420,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116179420
+6500000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,727,11,1,10,Swellendam Rural,Swellendam,P24-113369114,https://www.property24.com/for-sale/swellendam-rural/swellendam/western-cape/16564/113369114
+6550000.0,3,3,7,4.0,0.0,1,1,0,0,1,8,10,745,30,1,4,Kleinmond Central,Kleinmond,P24-109293744,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/109293744
+6600000.0,4,5,9,9.0,0.0,0,1,0,1,1,9,10,1833,28,1,4,Westcliff,Hermanus,P24-116739391,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116739391
+6700000.0,4,2,9,4.0,0.0,0,1,0,0,1,8,10,821,42,1,4,Kleinmond Central,Kleinmond,P24-116531061,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116531061
+6700000.0,3,3,7,2.0,0.0,0,0,0,0,1,9,10,1346,31,1,5,Eastcliff,Hermanus,P24-116576664,https://www.property24.com/for-sale/eastcliff/hermanus/western-cape/7846/116576664
+6700000.0,5,5,11,4.0,0.0,1,1,1,1,1,9,10,928,35,1,4,Westcliff,Hermanus,P24-116681015,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116681015
+6750000.0,4,5,9,12.0,0.0,1,1,0,1,1,9,10,2413,40,1,4,Vermont,Hermanus,P24-116141381,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116141381
+6750000.0,1,1,3,0.0,0.0,0,0,0,0,1,7,10,916,18,1,8,Agulhas,Agulhas,P24-115911140,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/115911140
+6750000.0,2,2,5,2.0,113.0,1,1,0,1,1,9,10,781,19,1,5,Hermanus Central,Hermanus,P24-116726868,https://www.property24.com/for-sale/hermanus-central/hermanus/western-cape/17525/116726868
+6799000.0,4,2,9,8.0,354.0,0,1,1,1,1,7,10,1372,40,1,4,Franskraal,Gansbaai,P24-116754588,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116754588
+6800000.0,4,4,9,6.0,0.0,0,1,1,1,0,7,10,1874,38,1,4,Swellendam,Swellendam,P24-116814292,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116814292
+6850000.0,6,4,13,14.0,0.0,0,1,0,1,1,7,10,5078,53,1,4,Franskraal,Gansbaai,P24-115948590,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/115948590
+6879000.0,5,4,11,4.0,0.0,0,0,0,1,1,7,10,455,20,1,4,Kleinbaai,Gansbaai,P24-116831974,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116831974
+6900000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,439,14,1,8,Chanteclair,Hermanus,P24-115718533,https://www.property24.com/for-sale/chanteclair/hermanus/western-cape/7855/115718533
+6900000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,825,12,1,8,Chanteclair,Hermanus,P24-116478117,https://www.property24.com/for-sale/chanteclair/hermanus/western-cape/7855/116478117
+6900000.0,8,6,17,4.0,0.0,1,1,0,1,1,7,10,1054,46,1,4,Struisbaai,Struisbaai,P24-115519541,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/115519541
+6900000.0,1,1,3,0.0,0.0,0,0,0,0,1,9,10,968,13,1,8,Onrus,Hermanus,P24-115870629,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/115870629
+6950000.0,3,3,7,4.0,0.0,0,0,0,0,1,8,10,1487,39,1,4,Bettys Bay,Bettys Bay,P24-116765817,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116765817
+6950000.0,6,4,13,4.0,0.0,0,1,0,1,1,9,10,2110,59,1,4,Voelklip,Hermanus,P24-116644263,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116644263
+6950000.0,5,3,11,3.0,0.0,0,1,0,1,1,8,10,1844,18,1,4,Stanford,Stanford,P24-116424447,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116424447
+6950000.0,1,1,3,0.0,1177.0,0,0,0,0,0,7,10,362,5,1,11,Bredasdorp,Bredasdorp,P24-108066381,https://www.property24.com/for-sale/bredasdorp/bredasdorp/western-cape/7882/108066381
+6950000.0,7,5,15,6.0,0.0,1,1,1,1,1,7,10,1121,50,1,4,Struisbaai,Struisbaai,P24-114330463,https://www.property24.com/for-sale/struisbaai/struisbaai/western-cape/7888/114330463
+6950000.0,3,3,7,11.0,1416.0,0,1,1,1,1,9,10,1367,49,1,4,Onrus,Hermanus,P24-116498197,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116498197
+6950000.0,4,3,9,3.0,0.0,0,1,1,0,1,9,10,1223,30,1,4,Onrus,Hermanus,P24-116365262,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116365262
+6950000.0,3,3,7,6.0,0.0,1,1,1,1,1,9,10,1316,42,1,4,Hemel en Aarde Estate,Hermanus,P24-116680200,https://www.property24.com/for-sale/hemel-en-aarde-estate/hermanus/western-cape/14360/116680200
+6975000.0,3,2,7,8.0,0.0,0,1,0,1,1,9,10,750,24,1,4,Voelklip,Hermanus,P24-116376072,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116376072
+6975000.0,3,3,7,4.0,0.0,1,1,1,1,1,8,10,1908,30,1,4,Bettys Bay,Bettys Bay,P24-115907601,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/115907601
+6980000.0,2,3,5,6.0,0.0,0,1,0,1,1,9,10,3372,11,1,4,Vermont,Hermanus,P24-116057922,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116057922
+6995000.0,4,4,9,8.0,745.0,0,1,1,1,1,7,10,4346,41,1,4,De Kelders,Gansbaai,P24-116610536,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116610536
+7000000.0,5,5,11,6.0,0.0,0,1,0,1,1,9,10,1139,31,1,4,Westcliff,Hermanus,P24-113566068,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/113566068
+7000000.0,2,1,5,8.0,990.0,0,0,0,1,1,9,10,649,18,1,4,Onrus,Hermanus,P24-115431470,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/115431470
+7000000.0,3,1,7,2.0,0.0,0,0,0,0,1,7,10,876,39,1,10,Pearly Beach,Gansbaai,P24-115806370,https://www.property24.com/for-sale/pearly-beach/gansbaai/western-cape/7860/115806370
+7250000.0,4,3,9,4.0,0.0,0,0,0,1,1,9,10,749,37,1,4,Voelklip,Hermanus,P24-116811919,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116811919
+7250000.0,4,3,9,4.0,0.0,0,1,0,1,1,9,10,2248,25,1,4,Voelklip,Hermanus,P24-116704116,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116704116
+7350000.0,5,4,11,8.0,0.0,0,1,0,1,1,7,10,1728,29,1,4,De Kelders,Gansbaai,P24-116239535,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116239535
+7350000.0,5,5,11,6.0,0.0,0,1,0,1,1,7,10,1693,51,1,4,De Kelders,Gansbaai,P24-116703809,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116703809
+7400000.0,3,4,7,34.0,0.0,0,1,0,0,1,7,10,4573,43,1,10,Franskraal,Gansbaai,P24-116829716,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116829716
+7400000.0,1,3,3,2.0,0.0,0,0,0,0,1,7,10,1129,41,1,10,Franskraal,Gansbaai,P24-116696531,https://www.property24.com/for-sale/franskraal/gansbaai/western-cape/7863/116696531
+7400000.0,3,3,7,2.0,0.0,0,1,1,1,1,9,10,1184,43,1,4,Onrus,Hermanus,P24-116634658,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116634658
+7490000.0,5,3,11,8.0,0.0,1,1,1,0,1,9,10,2036,44,1,4,Sandbaai,Hermanus,P24-116837872,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116837872
+7500000.0,5,4,11,6.0,0.0,1,1,0,1,0,7,10,1381,33,1,4,Greyton,Caledon,P24-116746052,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116746052
+7500000.0,3,2,7,4.0,716.0,0,1,0,1,1,9,10,621,32,1,4,Voelklip,Hermanus,P24-116729957,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116729957
+7500000.0,5,4,11,8.0,0.0,0,1,0,1,1,7,10,1213,49,1,4,De Kelders,Gansbaai,P24-116429274,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/116429274
+7500000.0,2,2,5,0.0,644.0,0,1,0,1,1,9,10,1019,37,1,4,Eastcliff,Hermanus,P24-116641367,https://www.property24.com/for-sale/eastcliff/hermanus/western-cape/7846/116641367
+7550000.0,6,3,13,5.0,0.0,0,1,0,1,1,7,10,2337,80,1,4,Kleinbaai,Gansbaai,P24-116830440,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116830440
+7550000.0,4,4,9,10.0,0.0,1,1,1,1,1,9,10,2049,47,1,4,Hemel en Aarde Estate,Hermanus,P24-116528774,https://www.property24.com/for-sale/hemel-en-aarde-estate/hermanus/western-cape/14360/116528774
+7800000.0,5,4,11,8.0,695.0,0,1,0,1,1,9,10,1463,48,1,4,Northcliff,Hermanus,P24-116812133,https://www.property24.com/for-sale/northcliff/hermanus/western-cape/7852/116812133
+7800000.0,7,7,15,7.0,0.0,0,1,0,1,0,7,10,2377,37,1,4,Swellendam,Swellendam,P24-116601037,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116601037
+7900000.0,3,3,7,13.0,0.0,1,1,1,1,1,7,10,1492,60,1,4,Pringle Bay,Pringle Bay,P24-116771030,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116771030
+7950000.0,4,2,9,6.0,0.0,1,1,0,1,1,8,10,2118,42,1,4,Arabella,Kleinmond,P24-116756458,https://www.property24.com/for-sale/arabella/kleinmond/western-cape/11748/116756458
+7950000.0,3,4,7,8.0,0.0,0,1,0,1,1,9,10,1542,20,1,4,Vermont,Hermanus,P24-116496023,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116496023
+7995000.0,3,3,7,6.0,75.0,0,1,1,1,1,9,10,1859,36,1,4,Onrus,Hermanus,P24-116730521,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116730521
+8000000.0,5,4,11,6.0,0.0,1,1,0,1,1,9,10,983,21,1,4,Berghof,Hermanus,P24-116786060,https://www.property24.com/for-sale/berghof/hermanus/western-cape/10450/116786060
+8000000.0,3,3,7,4.0,0.0,0,1,0,1,1,9,10,1478,46,1,4,Voelklip,Hermanus,P24-116743255,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116743255
+8000000.0,5,4,11,6.0,1268.0,0,1,0,0,1,7,10,536,64,1,4,Arniston,Arniston,P24-116671275,https://www.property24.com/for-sale/arniston/arniston/western-cape/7883/116671275
+8178000.0,3,3,7,6.0,0.0,0,1,1,1,1,9,10,1688,11,1,4,Vermont,Hermanus,P24-116741080,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116741080
+8178000.0,3,4,7,6.0,0.0,0,1,0,1,1,9,10,2578,28,1,4,Vermont,Hermanus,P24-116593928,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116593928
+8400000.0,3,3,7,4.0,378.0,1,1,0,1,1,8,10,1427,18,1,4,Stanford,Stanford,P24-116739952,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116739952
+8400000.0,5,5,11,7.0,0.0,0,1,0,1,1,9,10,790,34,1,4,Voelklip,Hermanus,P24-115016262,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/115016262
+8500000.0,5,5,11,5.0,0.0,0,0,1,0,1,7,10,1226,44,1,4,Klipfonteyn,Gansbaai,P24-116726750,https://www.property24.com/for-sale/klipfonteyn/gansbaai/western-cape/7867/116726750
+8500000.0,5,5,11,8.0,0.0,0,1,1,1,1,7,10,1876,48,1,4,Kleinbaai,Gansbaai,P24-115856092,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/115856092
+8500000.0,4,4,9,6.0,0.0,1,1,0,1,1,7,10,884,29,1,4,Agulhas,Agulhas,P24-116762873,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116762873
+8500000.0,3,2,7,6.0,0.0,1,1,1,1,0,7,10,936,28,1,4,Greyton,Caledon,P24-116743229,https://www.property24.com/for-sale/greyton/caledon/western-cape/7874/116743229
+8500000.0,5,5,11,5.0,0.0,0,1,1,1,1,7,10,1219,31,1,4,Kleinbaai,Gansbaai,P24-113035517,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/113035517
+8500000.0,5,4,11,4.0,550.0,0,0,0,1,1,7,10,1622,38,1,4,Agulhas,Agulhas,P24-116828704,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116828704
+8600000.0,6,4,13,10.0,0.0,1,1,1,1,1,9,10,1831,63,0,4,Chanteclair,Hermanus,P24-114377024,https://www.property24.com/for-sale/chanteclair/hermanus/western-cape/7855/114377024
+8750000.0,7,7,15,2.0,350.0,1,1,1,0,1,9,10,1952,46,1,4,Westcliff,Hermanus,P24-116756744,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116756744
+8900000.0,6,5,13,4.0,0.0,0,1,0,0,1,9,10,1713,42,1,4,Onrus,Hermanus,P24-115751717,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/115751717
+8995000.0,4,3,9,4.0,0.0,0,1,0,1,1,9,10,1440,51,1,4,Onrus,Hermanus,P24-116731371,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116731371
+8995000.0,4,3,9,10.0,0.0,0,1,0,1,1,7,10,1499,36,1,4,Agulhas,Agulhas,P24-116723905,https://www.property24.com/for-sale/agulhas/agulhas/western-cape/10496/116723905
+8995000.0,1,4,3,0.0,0.0,1,1,0,0,1,8,10,2072,13,1,11,Stanford,Stanford,P24-116792235,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116792235
+8995000.0,2,3,5,9.0,300.0,0,1,0,0,1,8,10,2752,19,1,11,Stanford,Stanford,P24-116783769,https://www.property24.com/for-sale/stanford/stanford/western-cape/7858/116783769
+9000000.0,5,5,11,4.0,0.0,0,1,0,1,1,9,10,979,55,1,4,Northcliff,Hermanus,P24-116701932,https://www.property24.com/for-sale/northcliff/hermanus/western-cape/7852/116701932
+9750000.0,5,3,11,6.0,0.0,0,1,0,1,1,7,10,1922,31,1,4,Rooi Els,Rooi Els,P24-116694091,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116694091
+9900000.0,1,1,3,18.0,59.0,0,0,0,0,0,7,10,1051,17,1,12,Villiersdorp,Villiersdorp,P24-116742250,https://www.property24.com/for-sale/villiersdorp/villiersdorp/western-cape/10613/116742250
+9950000.0,3,2,7,0.0,0.0,0,1,0,1,1,8,10,1029,20,1,4,Bettys Bay,Bettys Bay,P24-112400712,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/112400712
+9950000.0,4,3,9,8.0,0.0,0,1,1,1,1,9,10,2226,31,1,4,Chanteclair,Hermanus,P24-104537806,https://www.property24.com/for-sale/chanteclair/hermanus/western-cape/7855/104537806
+9950000.0,4,4,9,4.0,0.0,0,1,0,1,1,8,10,1302,67,1,4,Kleinmond Central,Kleinmond,P24-116690557,https://www.property24.com/for-sale/kleinmond-central/kleinmond/western-cape/16691/116690557
+10290000.0,3,3,7,6.0,0.0,0,1,0,1,1,7,10,2911,50,1,4,Rooi Els,Rooi Els,P24-116833794,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116833794
+10290000.0,3,1,7,2.0,0.0,0,1,0,1,1,7,10,3642,50,1,4,Rooi Els,Rooi Els,P24-116254794,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116254794
+10950000.0,4,5,9,14.0,0.0,1,1,1,0,1,9,10,1929,53,1,4,Sandbaai,Hermanus,P24-116587788,https://www.property24.com/for-sale/sandbaai/hermanus/western-cape/7845/116587788
+11500000.0,6,5,13,7.0,0.0,1,1,0,0,1,9,10,1450,71,1,4,Voelklip,Hermanus,P24-116761218,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116761218
+11500000.0,4,4,9,8.0,0.0,1,1,0,1,1,9,10,2699,25,1,4,Berghof,Hermanus,P24-116781578,https://www.property24.com/for-sale/berghof/hermanus/western-cape/10450/116781578
+11600000.0,3,3,7,3.0,896.0,1,1,0,1,1,9,10,1145,25,1,4,Voelklip,Hermanus,P24-116807248,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116807248
+11700000.0,3,2,7,4.0,0.0,0,1,0,1,1,8,10,901,49,1,4,Bettys Bay,Bettys Bay,P24-115899215,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/115899215
+11750000.0,6,6,13,10.0,0.0,1,0,0,1,1,9,10,964,66,1,4,Westcliff,Hermanus,P24-116549490,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116549490
+11900000.0,3,3,7,2.0,0.0,1,1,1,0,1,9,10,1024,40,1,4,Westcliff,Hermanus,P24-116433669,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116433669
+11900000.0,5,4,11,10.0,0.0,1,1,0,1,1,9,10,821,54,1,4,Glenfruin,Hermanus,P24-116721119,https://www.property24.com/for-sale/glenfruin/hermanus/western-cape/10453/116721119
+12000000.0,1,1,3,0.0,1808.0,0,0,1,0,1,9,10,2197,12,1,8,Benguela Cove Lagoon Wine Estate,Hermanus,P24-116761786,https://www.property24.com/for-sale/benguela-cove-lagoon-wine-estate/hermanus/western-cape/10455/116761786
+12000000.0,4,4,9,4.0,0.0,0,0,0,1,1,9,10,697,12,1,4,Voelklip,Hermanus,P24-116731180,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116731180
+12000000.0,4,4,9,3.0,0.0,0,0,0,1,1,9,10,333,4,1,4,Voelklip,Hermanus,P24-116227542,https://www.property24.com/for-sale/voelklip/hermanus/western-cape/7857/116227542
+12000000.0,4,3,9,4.0,0.0,0,0,0,1,1,7,10,1016,41,1,4,Pringle Bay,Pringle Bay,P24-116469727,https://www.property24.com/for-sale/pringle-bay/pringle-bay/western-cape/10846/116469727
+12205000.0,1,9,3,20.0,0.0,0,0,0,0,0,7,10,641,21,1,11,Caledon,Caledon,P24-116820106,https://www.property24.com/for-sale/caledon/caledon/western-cape/7873/116820106
+12500000.0,4,4,9,6.0,0.0,1,1,0,1,1,9,10,1555,16,1,4,Hermanus Heights,Hermanus,P24-116061771,https://www.property24.com/for-sale/hermanus-heights/hermanus/western-cape/7849/116061771
+12500000.0,5,4,11,4.0,0.0,1,0,0,0,1,8,10,1374,37,1,4,Bettys Bay,Bettys Bay,P24-113319433,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/113319433
+12500000.0,4,2,9,6.0,0.0,0,1,0,1,1,9,10,1764,58,1,4,Vermont,Hermanus,P24-116032622,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116032622
+12500000.0,5,4,11,8.0,0.0,1,1,1,1,1,9,10,2003,26,1,4,Onrus,Hermanus,P24-116725387,https://www.property24.com/for-sale/onrus/hermanus/western-cape/10648/116725387
+12500000.0,5,3,11,6.0,0.0,1,1,0,1,1,9,10,1572,26,1,4,Westcliff,Hermanus,P24-116611316,https://www.property24.com/for-sale/westcliff/hermanus/western-cape/7853/116611316
+12800000.0,8,8,17,8.0,650.0,1,1,0,1,0,7,10,1860,45,1,4,Swellendam,Swellendam,P24-116507279,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116507279
+12950000.0,3,3,7,4.0,0.0,0,0,1,0,0,7,10,1550,12,1,10,Swellendam,Swellendam,P24-116708330,https://www.property24.com/for-sale/swellendam/swellendam/western-cape/7598/116708330
+12950000.0,3,3,7,0.0,0.0,1,0,0,1,1,8,10,1222,26,1,4,Bettys Bay,Bettys Bay,P24-116781205,https://www.property24.com/for-sale/bettys-bay/bettys-bay/western-cape/7823/116781205
+13400000.0,6,6,13,12.0,778.0,1,1,1,1,1,7,10,3851,70,1,4,Kleinbaai,Gansbaai,P24-116704808,https://www.property24.com/for-sale/kleinbaai/gansbaai/western-cape/7865/116704808
+13950000.0,3,4,7,8.0,0.0,1,1,0,1,1,9,10,1689,51,1,4,Hermanus Heights,Hermanus,P24-116471815,https://www.property24.com/for-sale/hermanus-heights/hermanus/western-cape/7849/116471815
+13950000.0,4,3,9,4.0,0.0,1,1,1,1,1,9,10,2225,62,1,4,Hermanus Heights,Hermanus,P24-116716904,https://www.property24.com/for-sale/hermanus-heights/hermanus/western-cape/7849/116716904
+13995000.0,4,3,9,6.0,0.0,0,1,0,1,1,7,10,2487,48,1,4,Rooi Els,Rooi Els,P24-116455604,https://www.property24.com/for-sale/rooi-els/rooi-els/western-cape/7843/116455604
+14500000.0,1,1,3,0.0,0.0,0,0,0,0,0,7,10,1404,24,1,10,Tesselaarsdal,Caledon,P24-116802071,https://www.property24.com/for-sale/tesselaarsdal/caledon/western-cape/7872/116802071
+15000000.0,1,1,3,0.0,1929.0,0,0,0,0,1,7,10,1015,24,1,8,De Kelders,Gansbaai,P24-109876970,https://www.property24.com/for-sale/de-kelders/gansbaai/western-cape/12117/109876970
+15850000.0,5,5,11,10.0,0.0,0,1,1,1,1,9,10,1450,40,1,4,Vermont,Hermanus,P24-116757288,https://www.property24.com/for-sale/vermont/hermanus/western-cape/7861/116757288
